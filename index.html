@@ -1,13 +1,38 @@
-<!DOCTYPE html>
-<html>
+﻿<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>My Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Lot Locator</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Hello World</h1>
-    <p>This is my first page.</p>
-    <p>this is my second paragraph</p>
-    <p>p3</p>
-    <p>p4 try this again</p>
+    <div class="container">
+        <header>
+        </header>
+
+        <div class="search-section">
+            <input type="text"
+                   id="lotNumberInput"
+                   placeholder="Enter lot number (e.g., 101)"
+                   autocomplete="off" />
+            <button id="searchButton">Find Lot</button>
+            <button id="clearButton">Clear</button>
+        </div>
+
+        <div class="content">
+            <div id="map"></div>
+
+            <div id="lotInfo" class="lot-info hidden">
+                <h2>Lot Information</h2>
+                <div id="lotDetails"></div>
+            </div>
+        </div>
+
+        <div id="errorMessage" class="error hidden"></div>
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-FgnLuD6u_trXwMhh_mOZaUWtHfUUbcs"></script>
+    <script src="app.js"></script>
 </body>
 </html>

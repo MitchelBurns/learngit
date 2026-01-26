@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="app.js" />
+    <File Path="index.html" />
+    <File Path="lots.json" />
+    <File Path="styles.css" />
+  </Folder>
+</Solution>

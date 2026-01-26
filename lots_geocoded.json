@@ -1,0 +1,1774 @@
+{
+  "lots": [
+    {
+      "lotNumber": "2",
+      "address": "113 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097018,
+        "lng": -111.3891944
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "11",
+      "address": "142 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5103952,
+        "lng": -111.3893371
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "12",
+      "address": "150 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5103952,
+        "lng": -111.3893371
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "13",
+      "address": "158 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5103952,
+        "lng": -111.3893371
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "14",
+      "address": "157 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097018,
+        "lng": -111.3891944
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "15",
+      "address": "165 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097018,
+        "lng": -111.3891944
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "16",
+      "address": "191 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097018,
+        "lng": -111.3891944
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "17",
+      "address": "215 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5099225,
+        "lng": -111.3896749
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "18",
+      "address": "255 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5104171,
+        "lng": -111.3902181
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "19",
+      "address": "285 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5107654,
+        "lng": -111.3904146
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "20",
+      "address": "230 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5103952,
+        "lng": -111.3893371
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "102",
+      "address": "2881 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5161258,
+        "lng": -111.3685724
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "103",
+      "address": "2880 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.516045,
+        "lng": -111.3691376
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "104",
+      "address": "2884 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5158404,
+        "lng": -111.3687998
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "105",
+      "address": "2888 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5155359,
+        "lng": -111.368861
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "106",
+      "address": "2900 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5156632,
+        "lng": -111.3683988
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "107",
+      "address": "2910 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5152669,
+        "lng": -111.3681505
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "108",
+      "address": "2918 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5154752,
+        "lng": -111.3678275
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "109",
+      "address": "2930 E Brown Duck Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5151619,
+        "lng": -111.3674138
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "110",
+      "address": "601 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.514772,
+        "lng": -111.3676271
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "111",
+      "address": "565 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5145388,
+        "lng": -111.3677394
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "112",
+      "address": "551 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.514188,
+        "lng": -111.367389
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "113",
+      "address": "537 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5139202,
+        "lng": -111.3673255
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "114",
+      "address": "511 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5137089,
+        "lng": -111.3676223
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "115",
+      "address": "481 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.51343,
+        "lng": -111.36755
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "116",
+      "address": "445 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5131891,
+        "lng": -111.3674304
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "117",
+      "address": "427 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5127931,
+        "lng": -111.3672288
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "118",
+      "address": "393 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5124614,
+        "lng": -111.3672591
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "119",
+      "address": "355 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5121601,
+        "lng": -111.3675066
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "120",
+      "address": "311 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.511991,
+        "lng": -111.3679465
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "121",
+      "address": "295 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.51201,
+        "lng": -111.36835
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "122",
+      "address": "271 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5118551,
+        "lng": -111.3686585
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "123",
+      "address": "330 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5117602,
+        "lng": -111.3673859
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "124",
+      "address": "310 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5114819,
+        "lng": -111.367451
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "125",
+      "address": "304 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5113071,
+        "lng": -111.3678009
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "126",
+      "address": "280 N Red Ledges Boulevard, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5113029,
+        "lng": -111.3681835
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "127",
+      "address": "205 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5109956,
+        "lng": -111.3689356
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "128",
+      "address": "209 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5106786,
+        "lng": -111.3687221
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "129",
+      "address": "223 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.509886,
+        "lng": -111.3690079
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "130",
+      "address": "229 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5098378,
+        "lng": -111.3682056
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "131",
+      "address": "235 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5095827,
+        "lng": -111.3676576
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "132",
+      "address": "241 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097895,
+        "lng": -111.3666533
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "133",
+      "address": "253 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097825,
+        "lng": -111.3664828
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "134",
+      "address": "206 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5107799,
+        "lng": -111.369458
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "135",
+      "address": "212 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5103756,
+        "lng": -111.3698117
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "136",
+      "address": "216 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5096375,
+        "lng": -111.3697253
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "137",
+      "address": "220 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5092737,
+        "lng": -111.3695758
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "138",
+      "address": "224 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5090851,
+        "lng": -111.3689603
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "139",
+      "address": "228 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5091009,
+        "lng": -111.36843
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "140",
+      "address": "234 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5090619,
+        "lng": -111.3675264
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "141",
+      "address": "240 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5091814,
+        "lng": -111.3669524
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "142",
+      "address": "3050 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5088134,
+        "lng": -111.3653873
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "143",
+      "address": "3088 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5087547,
+        "lng": -111.3657128
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "144",
+      "address": "3090 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5086692,
+        "lng": -111.3653229
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "145",
+      "address": "3097 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5085148,
+        "lng": -111.3649444
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "146",
+      "address": "3081 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5091029,
+        "lng": -111.3650783
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "147",
+      "address": "3057 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5094652,
+        "lng": -111.3652279
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "148",
+      "address": "3035 E Corral Peak Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097565,
+        "lng": -111.3653454
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "149",
+      "address": "280 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.51092,
+        "lng": -111.3652809
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "150",
+      "address": "292 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5110849,
+        "lng": -111.3646317
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "151",
+      "address": "304 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.510811,
+        "lng": -111.364025
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "152",
+      "address": "312 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5110132,
+        "lng": -111.3634501
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "153",
+      "address": "3226 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.511008,
+        "lng": -111.3627645
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "154",
+      "address": "3290 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.510549,
+        "lng": -111.362139
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "155",
+      "address": "3330 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5104902,
+        "lng": -111.3615684
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "156",
+      "address": "3336 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5101227,
+        "lng": -111.3610249
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "157",
+      "address": "3340 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5104805,
+        "lng": -111.3608835
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "158",
+      "address": "3335 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.510954,
+        "lng": -111.3601569
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "159",
+      "address": "3311 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5109317,
+        "lng": -111.3612793
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "160",
+      "address": "3225 E Horseshoe Canyon Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5112896,
+        "lng": -111.3624353
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "161",
+      "address": "362 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5117833,
+        "lng": -111.3624774
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "162",
+      "address": "390 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5121473,
+        "lng": -111.3627107
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "163",
+      "address": "420 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5126171,
+        "lng": -111.3624507
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "164",
+      "address": "444 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5130508,
+        "lng": -111.3626444
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "165",
+      "address": "466 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5131442,
+        "lng": -111.3630335
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "166",
+      "address": "3220 E Horsehead Peak Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5138157,
+        "lng": -111.3632796
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "167",
+      "address": "3246 E Horsehead Peak Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.514098,
+        "lng": -111.363112
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "168",
+      "address": "3250 E Horsehead Peak Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5141358,
+        "lng": -111.3627817
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "169",
+      "address": "3245 E Horsehead Peak Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5140974,
+        "lng": -111.3631197
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "170",
+      "address": "3231 E Horsehead Peak Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5145332,
+        "lng": -111.3633032
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "171",
+      "address": "3205 E Horsehead Peak Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5140728,
+        "lng": -111.363742
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "172",
+      "address": "556 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5140235,
+        "lng": -111.3646562
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "173",
+      "address": "590 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5143249,
+        "lng": -111.3655178
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "174",
+      "address": "618 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5148575,
+        "lng": -111.3658024
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "175",
+      "address": "634 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.515244,
+        "lng": -111.3660017
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "176",
+      "address": "650 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.515597,
+        "lng": -111.3661634
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "177",
+      "address": "657 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5154883,
+        "lng": -111.3667483
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "178",
+      "address": "637 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5150515,
+        "lng": -111.3664086
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "179",
+      "address": "623 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5147926,
+        "lng": -111.3663401
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "180",
+      "address": "605 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5143767,
+        "lng": -111.3662074
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "181",
+      "address": "595 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5141822,
+        "lng": -111.3658056
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "182",
+      "address": "583 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5139244,
+        "lng": -111.3655561
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "183",
+      "address": "567 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.513523,
+        "lng": -111.365061
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "184",
+      "address": "551 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5136195,
+        "lng": -111.3645112
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "185",
+      "address": "515 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5134852,
+        "lng": -111.3638631
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "186",
+      "address": "3155 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5128779,
+        "lng": -111.3639392
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "187",
+      "address": "3125 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5128882,
+        "lng": -111.3641015
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "188",
+      "address": "3101 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5129212,
+        "lng": -111.3647223
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "189",
+      "address": "3077 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.512889,
+        "lng": -111.365489
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "190",
+      "address": "3055 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5130412,
+        "lng": -111.3660015
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "191",
+      "address": "3050 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5125879,
+        "lng": -111.3664756
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "192",
+      "address": "3052 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5123397,
+        "lng": -111.3661705
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "193",
+      "address": "3060 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5121296,
+        "lng": -111.3655963
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "194",
+      "address": "3090 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5123141,
+        "lng": -111.3650319
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "195",
+      "address": "3120 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5124311,
+        "lng": -111.3644533
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "196",
+      "address": "3140 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5124132,
+        "lng": -111.3638872
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "197",
+      "address": "3166 E Horse Mountain Circle, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5124397,
+        "lng": -111.3633805
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "198",
+      "address": "347 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5113408,
+        "lng": -111.3633298
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "199",
+      "address": "307 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5112318,
+        "lng": -111.3639217
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "200",
+      "address": "295 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5113434,
+        "lng": -111.3645116
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "201",
+      "address": "289 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5113296,
+        "lng": -111.3649676
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "202",
+      "address": "283 N Ibapah Peak Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5115079,
+        "lng": -111.3655805
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "203",
+      "address": "141 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097018,
+        "lng": -111.3891944
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "204",
+      "address": "149 N Haystack Mountain Drive, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5097018,
+        "lng": -111.3891944
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "205",
+      "address": "725 N Red Mountain Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5161438,
+        "lng": -111.3711725
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "206",
+      "address": "693 N Red Mountain Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.5159731,
+        "lng": -111.3715262
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "207",
+      "address": "669 N Red Mountain Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.515721,
+        "lng": -111.371673
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    },
+    {
+      "lotNumber": "208",
+      "address": "645 N Red Mountain Court, Heber City, UT 84032",
+      "coordinates": {
+        "lat": 40.515431,
+        "lng": -111.371828
+      },
+      "size": "TBD",
+      "status": "Available",
+      "price": "Contact for pricing",
+      "features": [
+        "Red Ledges Community",
+        "Mountain views"
+      ]
+    }
+  ]
+}
