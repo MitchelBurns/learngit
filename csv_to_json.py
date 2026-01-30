@@ -23,7 +23,7 @@ def convert_csv_to_json():
         # Only include successfully geocoded lots
         if row.get('GeocodeStatus') == 'Success' and row.get('Latitude') and row.get('Longitude'):
             lot = {
-                "lotNumber": row.get('LotID', ''),
+                "lotNumber": row.get('LotId', ''),
                 "address": row.get('Address', ''),
                 "coordinates": {
                     "lat": float(row.get('Latitude', 0)),
@@ -32,7 +32,7 @@ def convert_csv_to_json():
                 "acreage": row.get('Acreage', 'TBD'),
                 "hasWaterAssessment": row.get('HasWaterAssessment', 'Unknown'),
                 "isAvailable": row.get('IsAvailable', 'Unknown'),
-                "lotType": row.get('LotType', 'TBD'),
+                "lotType": row.get('LotTypeDescription', 'TBD'),
                 "phaseName": row.get('PhaseName', 'TBD'),
                 "membershipType": row.get('MembershipType', 'TBD'),
                 "membershipStatus": row.get('MembershipStatus', 'TBD'),

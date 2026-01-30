@@ -52,7 +52,7 @@ def main():
             rows = list(reader)
     except FileNotFoundError:
         print(f"ERROR: Could not find '{INPUT_FILE}'")
-        print(f"Please create a CSV file with columns: LotID,Address")
+        print(f"Please create a CSV file with columns: LotID,FullAddress")
         return
     except Exception as e:
         print(f"ERROR reading CSV: {str(e)}")
@@ -63,8 +63,8 @@ def main():
         return
     
     # Check for required columns
-    if 'LotID' not in rows[0] or 'Address' not in rows[0]:
-        print("ERROR: CSV must have 'LotID' and 'Address' columns")
+    if 'LotID' not in rows[0] or 'FullAddress' not in rows[0]:
+        print("ERROR: CSV must have 'LotID' and 'FullAddress' columns")
         print(f"Found columns: {list(rows[0].keys())}")
         return
     
@@ -77,7 +77,7 @@ def main():
     
     for i, row in enumerate(rows, 1):
         lot_id = row['LotID']
-        address = row['Address']
+        address = row['FullAddress']
         
         print(f"[{i}/{len(rows)}] Lot {lot_id}: {address}")
         
