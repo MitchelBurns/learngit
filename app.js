@@ -1,26 +1,12 @@
-// JavaScript source code
 let map;
 let marker;
 let lotsData = [];
 
-/*const lotsData = [
-    {
-        "lotNumber": "101",
-        "address": "123 Main Street",
-        "coordinates": { "lat": 40.7128, "lng": -74.0060 },
-        "size": "0.25 acres",
-        "status": "Available",
-        "price": "$45,000",
-        "features": ["Corner lot", "Utilities available"]
-    }
-    // Add more lots here
-];*/
-
 // Initialize the map
 function initMap() {
-    // Default center (you can change this to your community's center)
-    const defaultCenter = { lat: 40.7128, lng: -74.0060 };
-
+    // Default center - Red Ledges community center
+    const defaultCenter = { lat: 40.5119, lng: -111.3706 };
+    
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 15,
         center: defaultCenter,
@@ -31,7 +17,7 @@ function initMap() {
 // Load lot data from JSON file
 async function loadLotData() {
     try {
-        const response = await fetch('lots_geocoded.json');
+        const response = await fetch('lots.json');
         const data = await response.json();
         lotsData = data.lots;
     } catch (error) {
@@ -43,14 +29,14 @@ async function loadLotData() {
 // Search for a lot
 function searchLot() {
     const lotNumber = document.getElementById('lotNumberInput').value.trim();
-
+    
     if (!lotNumber) {
         showError('Please enter a lot number');
         return;
     }
-
+    
     const lot = lotsData.find(l => l.lotNumber === lotNumber);
-
+    
     if (lot) {
         hideError();
         showLotOnMap(lot);
@@ -64,12 +50,12 @@ function searchLot() {
 // Show lot on map with marker
 function showLotOnMap(lot) {
     const position = { lat: lot.coordinates.lat, lng: lot.coordinates.lng };
-
+    
     // Remove existing marker if any
     if (marker) {
         marker.setMap(null);
     }
-
+    
     // Create new marker
     marker = new google.maps.Marker({
         position: position,
@@ -77,20 +63,21 @@ function showLotOnMap(lot) {
         title: `Lot ${lot.lotNumber}`,
         animation: google.maps.Animation.DROP
     });
-
+    
     // Center map on the lot
     map.setCenter(position);
     map.setZoom(18);
-
+    
     // Create info window
+    const availabilityStatus = lot.isAvailable.toLowerCase() === 'yes' ? 'Available' : 'Not Available';
     const infoWindow = new google.maps.InfoWindow({
         content: `<div style="padding: 10px;">
                     <h3>Lot ${lot.lotNumber}</h3>
                     <p>${lot.address}</p>
-                    <p><strong>${lot.status}</strong></p>
+                    <p><strong>${availabilityStatus}</strong></p>
                   </div>`
     });
-
+    
     // Show info window on marker click
     marker.addListener('click', () => {
         infoWindow.open(map, marker);
@@ -101,11 +88,9 @@ function showLotOnMap(lot) {
 function displayLotInfo(lot) {
     const lotInfoDiv = document.getElementById('lotInfo');
     const lotDetailsDiv = document.getElementById('lotDetails');
-
-    const statusClass = lot.status.toLowerCase() === 'available' ? 'status-available' : 'status-sold';
-
-    const featuresHTML = lot.features.map(feature => `<li>${feature}</li>`).join('');
-
+    
+    const availableClass = lot.isAvailable.toLowerCase() === 'yes' ? 'status-available' : 'status-sold';
+    
     lotDetailsDiv.innerHTML = `
         <div class="detail-row">
             <span class="detail-label">Lot Number:</span>
@@ -116,25 +101,47 @@ function displayLotInfo(lot) {
             <span class="detail-value">${lot.address}</span>
         </div>
         <div class="detail-row">
-            <span class="detail-label">Size:</span>
-            <span class="detail-value">${lot.size}</span>
+            <span class="detail-label">Acreage:</span>
+            <span class="detail-value">${lot.acreage}</span>
         </div>
         <div class="detail-row">
-            <span class="detail-label">Status:</span>
-            <span class="detail-value ${statusClass}">${lot.status}</span>
+            <span class="detail-label">Has Water Assessment:</span>
+            <span class="detail-value">${lot.hasWaterAssessment}</span>
         </div>
         <div class="detail-row">
-            <span class="detail-label">Price:</span>
-            <span class="detail-value">${lot.price}</span>
+            <span class="detail-label">Is Available:</span>
+            <span class="detail-value ${availableClass}">${lot.isAvailable}</span>
         </div>
         <div class="detail-row">
-            <span class="detail-label">Features:</span>
-            <ul class="features-list">
-                ${featuresHTML}
-            </ul>
+            <span class="detail-label">Lot Type:</span>
+            <span class="detail-value">${lot.lotType}</span>
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Phase Name:</span>
+            <span class="detail-value">${lot.phaseName}</span>
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Membership Type:</span>
+            <span class="detail-value">${lot.membershipType}</span>
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Membership Status:</span>
+            <span class="detail-value">${lot.membershipStatus}</span>
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Jonas Member Number:</span>
+            <span class="detail-value">${lot.jonasMemberNumber}</span>
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Membership Period:</span>
+            <span class="detail-value">${lot.membershipPeriod}</span>
+        </div>
+        <div class="detail-row">
+            <span class="detail-label">Owner Name:</span>
+            <span class="detail-value">${lot.ownerName}</span>
         </div>
     `;
-
+    
     lotInfoDiv.classList.remove('hidden');
 }
 
@@ -160,13 +167,13 @@ function clearSearch() {
     document.getElementById('lotNumberInput').value = '';
     hideLotInfo();
     hideError();
-
+    
     if (marker) {
         marker.setMap(null);
     }
-
+    
     // Reset map to default view
-    map.setCenter({ lat: 40.7128, lng: -74.0060 });
+    map.setCenter({ lat: 40.5119, lng: -111.3706 });
     map.setZoom(15);
 }
 
@@ -174,10 +181,10 @@ function clearSearch() {
 document.addEventListener('DOMContentLoaded', () => {
     initMap();
     loadLotData();
-
+    
     document.getElementById('searchButton').addEventListener('click', searchLot);
     document.getElementById('clearButton').addEventListener('click', clearSearch);
-
+    
     // Allow Enter key to search
     document.getElementById('lotNumberInput').addEventListener('keypress', (e) => {
         if (e.key === 'Enter') {
