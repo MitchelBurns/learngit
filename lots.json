@@ -4,8 +4,8 @@
       "lotNumber": "1",
       "address": "105 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50817781,
+        "lng": -111.3847697
       },
       "acreage": "0.519999981",
       "hasWaterAssessment": "FALSE",
@@ -22,8 +22,8 @@
       "lotNumber": "10",
       "address": "134 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5103952,
-        "lng": -111.3893371
+        "lat": 40.50896068,
+        "lng": -111.3865486
       },
       "acreage": "0.550000012",
       "hasWaterAssessment": "FALSE",
@@ -56,7 +56,7 @@
     },
     {
       "lotNumber": "101",
-      "address": "2891 E Brown Duck Mountain Circle or 735 N Red Ledges Blvd",
+      "address": "2891 E Brown Duck Mountain Circle or 735 N Red Ledges Boulevard",
       "coordinates": {
         "lat": 40.5160921,
         "lng": -111.3683067
@@ -220,8 +220,8 @@
       "lotNumber": "11",
       "address": "142 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5103952,
-        "lng": -111.3893371
+        "lat": 40.50917681,
+        "lng": -111.3870222
       },
       "acreage": "0.519999981",
       "hasWaterAssessment": "TRUE",
@@ -418,8 +418,8 @@
       "lotNumber": "12",
       "address": "150 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5103952,
-        "lng": -111.3893371
+        "lat": 40.5093989,
+        "lng": -111.387442
       },
       "acreage": "0.5",
       "hasWaterAssessment": "FALSE",
@@ -518,9 +518,9 @@
       "phaseName": "Original Release",
       "membershipType": "Golf",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "100044",
+      "jonasMemberNumber": "100905",
       "membershipPeriod": "",
-      "ownerName": "Dennis Levine and Elke Levine"
+      "ownerName": "Kaveh & Lida Soofer"
     },
     {
       "lotNumber": "125",
@@ -616,8 +616,8 @@
       "lotNumber": "13",
       "address": "158 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5103952,
-        "lng": -111.3893371
+        "lat": 40.50974123,
+        "lng": -111.3878388
       },
       "acreage": "0.540000021",
       "hasWaterAssessment": "FALSE",
@@ -814,8 +814,8 @@
       "lotNumber": "14",
       "address": "157 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50933014,
+        "lng": -111.3882558
       },
       "acreage": "0.540000021",
       "hasWaterAssessment": "FALSE",
@@ -868,8 +868,8 @@
       "lotNumber": "142",
       "address": "3050 E Corral Peak Circle",
       "coordinates": {
-        "lat": 40.5088134,
-        "lng": -111.3653873
+        "lat": 40.50934359,
+        "lng": -111.3658486
       },
       "acreage": "1.330000043",
       "hasWaterAssessment": "FALSE",
@@ -1012,8 +1012,8 @@
       "lotNumber": "15",
       "address": "165 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50955199,
+        "lng": -111.38867
       },
       "acreage": "0.50999999",
       "hasWaterAssessment": "FALSE",
@@ -1120,8 +1120,8 @@
       "lotNumber": "155",
       "address": "3330 E Horseshoe Canyon Circle",
       "coordinates": {
-        "lat": 34.1149775,
-        "lng": -118.3780159
+        "lat": 40.5104657,
+        "lng": -111.3615684
       },
       "acreage": "0.75999999",
       "hasWaterAssessment": "FALSE",
@@ -1354,8 +1354,8 @@
       "lotNumber": "167",
       "address": "3246 E Horsehead Peak Court",
       "coordinates": {
-        "lat": 40.514098,
-        "lng": -111.363112
+        "lat": 40.5136487,
+        "lng": -111.3624907
       },
       "acreage": "0.829999983",
       "hasWaterAssessment": "FALSE",
@@ -1580,9 +1580,9 @@
       "phaseName": "Original Release",
       "membershipType": "Golf",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "100487",
+      "jonasMemberNumber": "100908",
       "membershipPeriod": "",
-      "ownerName": "Dean Ingram"
+      "ownerName": "Professional Park, LLC"
     },
     {
       "lotNumber": "179",
@@ -1598,9 +1598,9 @@
       "phaseName": "Original Release",
       "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "300207",
-      "membershipPeriod": "Bought from Cox",
-      "ownerName": "Julie Rawle"
+      "jonasMemberNumber": "300556",
+      "membershipPeriod": "",
+      "ownerName": "Steven J. Heller Living Trust and Annette Gladstone\u00a0\u00a0"
     },
     {
       "lotNumber": "18",
@@ -1694,7 +1694,7 @@
     },
     {
       "lotNumber": "184",
-      "address": "551  Ibapah Peak Drive",
+      "address": "551 N Ibapah Peak Drive",
       "coordinates": {
         "lat": 40.5136195,
         "lng": -111.3645112
@@ -1732,8 +1732,8 @@
       "lotNumber": "186",
       "address": "3155 E Horse Mountain Circle or 457 N Ibapah Peak Drive",
       "coordinates": {
-        "lat": 40.5128779,
-        "lng": -111.3639392
+        "lat": 40.5128989,
+        "lng": -111.3635409
       },
       "acreage": "0.860000014",
       "hasWaterAssessment": "FALSE",
@@ -1866,11 +1866,11 @@
       "isAvailable": "TRUE",
       "lotType": "(CLL) Custom Lot Large",
       "phaseName": "Original Release",
-      "membershipType": "Lifestyle",
+      "membershipType": "Golf",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "300227",
-      "membershipPeriod": "Downgrade 12.31.18",
-      "ownerName": "William O'Brien"
+      "jonasMemberNumber": "100904",
+      "membershipPeriod": "",
+      "ownerName": "Terri Wright"
     },
     {
       "lotNumber": "193",
@@ -2002,8 +2002,8 @@
       "lotNumber": "2",
       "address": "113 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50817874,
+        "lng": -111.3852974
       },
       "acreage": "0.50999999",
       "hasWaterAssessment": "FALSE",
@@ -2110,8 +2110,8 @@
       "lotNumber": "203",
       "address": "141 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50970084,
+        "lng": -111.3891939
       },
       "acreage": "0.649999976",
       "hasWaterAssessment": "FALSE",
@@ -2128,7 +2128,7 @@
       "lotNumber": "204",
       "address": "149 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
+        "lat": 40.50969976,
         "lng": -111.3891944
       },
       "acreage": "0.569999993",
@@ -3758,9 +3758,9 @@
       "phaseName": "Second Release",
       "membershipType": "No Membership",
       "membershipStatus": "Combined",
-      "jonasMemberNumber": "100493",
+      "jonasMemberNumber": "700003",
       "membershipPeriod": "",
-      "ownerName": "Mary and Theodore Williams Trust"
+      "ownerName": "Mitchel and Annica Burns"
     },
     {
       "lotNumber": "286",
@@ -3776,9 +3776,9 @@
       "phaseName": "Second Release",
       "membershipType": "No Membership",
       "membershipStatus": "Combined",
-      "jonasMemberNumber": "700003",
+      "jonasMemberNumber": "100493",
       "membershipPeriod": "",
-      "ownerName": "Mitchel and Annica Burns"
+      "ownerName": "Mary and Theodore Williams Trust"
     },
     {
       "lotNumber": "287",
@@ -3856,8 +3856,8 @@
       "lotNumber": "290",
       "address": "619 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5150683,
-        "lng": -111.3892437
+        "lat": 40.51506278,
+        "lng": -111.3892441
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "FALSE",
@@ -3874,8 +3874,8 @@
       "lotNumber": "291",
       "address": "623 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5152983,
-        "lng": -111.3888424
+        "lat": 40.51547978,
+        "lng": -111.389462
       },
       "acreage": "0.300000012",
       "hasWaterAssessment": "FALSE",
@@ -3892,8 +3892,8 @@
       "lotNumber": "292",
       "address": "633 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5155596,
-        "lng": -111.3891157
+        "lat": 40.51568806,
+        "lng": -111.3895449
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "FALSE",
@@ -3910,8 +3910,8 @@
       "lotNumber": "293",
       "address": "638 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.51556,
-        "lng": -111.3891162
+        "lat": 40.51593519,
+        "lng": -111.3895614
       },
       "acreage": "0.25",
       "hasWaterAssessment": "FALSE",
@@ -3928,8 +3928,8 @@
       "lotNumber": "294",
       "address": "645 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5155173,
-        "lng": -111.3882681
+        "lat": 40.51615757,
+        "lng": -111.3895647
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "FALSE",
@@ -3946,8 +3946,8 @@
       "lotNumber": "295",
       "address": "655 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5152987,
-        "lng": -111.3888427
+        "lat": 40.51642835,
+        "lng": -111.3895991
       },
       "acreage": "0.25",
       "hasWaterAssessment": "FALSE",
@@ -3964,26 +3964,8 @@
       "lotNumber": "296",
       "address": "661 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5153076,
-        "lng": -111.3888491
-      },
-      "acreage": "0.25999999",
-      "hasWaterAssessment": "TRUE",
-      "isAvailable": "TRUE",
-      "lotType": "(CLM) Custom Lot Medium",
-      "phaseName": "Mountain View",
-      "membershipType": "Golf",
-      "membershipStatus": "Trade-In",
-      "jonasMemberNumber": "100641",
-      "membershipPeriod": "",
-      "ownerName": "Jacob Hanneman and McKay Johnston"
-    },
-    {
-      "lotNumber": "296",
-      "address": "661 N Haystack Mountain Drive",
-      "coordinates": {
-        "lat": 40.5153076,
-        "lng": -111.3888491
+        "lat": 40.51664415,
+        "lng": -111.389551
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "TRUE",
@@ -3997,11 +3979,29 @@
       "ownerName": "Jacob Hanneman and McKay Johnston"
     },
     {
-      "lotNumber": "297",
-      "address": "671 North Haystack Mountain Drive",
+      "lotNumber": "296",
+      "address": "661 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5168442,
-        "lng": -111.3893325
+        "lat": 40.51664415,
+        "lng": -111.389551
+      },
+      "acreage": "0.25999999",
+      "hasWaterAssessment": "TRUE",
+      "isAvailable": "TRUE",
+      "lotType": "(CLM) Custom Lot Medium",
+      "phaseName": "Mountain View",
+      "membershipType": "Golf",
+      "membershipStatus": "Trade-In",
+      "jonasMemberNumber": "100641",
+      "membershipPeriod": "",
+      "ownerName": "Jacob Hanneman and McKay Johnston"
+    },
+    {
+      "lotNumber": "297",
+      "address": "671 N Haystack Mountain Drive",
+      "coordinates": {
+        "lat": 40.51689355,
+        "lng": -111.3894863
       },
       "acreage": "0.340000004",
       "hasWaterAssessment": "FALSE",
@@ -4018,8 +4018,8 @@
       "lotNumber": "3",
       "address": "119 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50821199,
+        "lng": -111.385825
       },
       "acreage": "0.519999981",
       "hasWaterAssessment": "FALSE",
@@ -4070,7 +4070,7 @@
     },
     {
       "lotNumber": "308",
-      "address": "695 North Haystack Mountain Drive",
+      "address": "695 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5173709,
         "lng": -111.3885642
@@ -4088,10 +4088,10 @@
     },
     {
       "lotNumber": "309",
-      "address": "701 North Haystack Mountain Drive",
+      "address": "701 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5158448,
-        "lng": -111.3885908
+        "lat": 40.51753721,
+        "lng": -111.3882046
       },
       "acreage": "0.109999999",
       "hasWaterAssessment": "TRUE",
@@ -4124,10 +4124,10 @@
     },
     {
       "lotNumber": "310",
-      "address": "709 North Haystack Mountain Drive",
+      "address": "709 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5155601,
-        "lng": -111.3891163
+        "lat": 40.51753721,
+        "lng": -111.3878612
       },
       "acreage": "0.109999999",
       "hasWaterAssessment": "TRUE",
@@ -4142,7 +4142,7 @@
     },
     {
       "lotNumber": "311",
-      "address": "717 North Haystack Mountain Drive",
+      "address": "717 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.517405,
         "lng": -111.387563
@@ -4162,8 +4162,8 @@
       "lotNumber": "32",
       "address": "431 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5136596,
-        "lng": -111.3888765
+        "lat": 40.51279044,
+        "lng": -111.3895071
       },
       "acreage": "0.600000024",
       "hasWaterAssessment": "FALSE",
@@ -4180,8 +4180,8 @@
       "lotNumber": "32",
       "address": "431 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5136596,
-        "lng": -111.3888765
+        "lat": 40.51279044,
+        "lng": -111.3895071
       },
       "acreage": "0.600000024",
       "hasWaterAssessment": "FALSE",
@@ -4196,7 +4196,7 @@
     },
     {
       "lotNumber": "320",
-      "address": "782 North Haystack Mountain Drive",
+      "address": "782 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5180533,
         "lng": -111.3853853
@@ -4214,7 +4214,7 @@
     },
     {
       "lotNumber": "321",
-      "address": "772 North Haystack Mountain Drive",
+      "address": "772 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5178291,
         "lng": -111.3856621
@@ -4232,7 +4232,7 @@
     },
     {
       "lotNumber": "322",
-      "address": "758 North Haystack Mountain Drive",
+      "address": "758 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5175885,
         "lng": -111.3858768
@@ -4250,7 +4250,7 @@
     },
     {
       "lotNumber": "323",
-      "address": "746 North Haystack Mountain Drive",
+      "address": "746 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5173712,
         "lng": -111.3861105
@@ -4268,7 +4268,7 @@
     },
     {
       "lotNumber": "324",
-      "address": "738 North Haystack Mountain Drive",
+      "address": "738 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5171771,
         "lng": -111.3863354
@@ -4286,7 +4286,7 @@
     },
     {
       "lotNumber": "324",
-      "address": "738 North Haystack Mountain Drive",
+      "address": "738 N Haystack Mountain Drive",
       "coordinates": {
         "lat": 40.5171771,
         "lng": -111.3863354
@@ -4304,7 +4304,7 @@
     },
     {
       "lotNumber": "325",
-      "address": "1709 East Haystack Mountain Court",
+      "address": "1709 E Haystack Mountain Court",
       "coordinates": {
         "lat": 40.517043,
         "lng": -111.387137
@@ -4322,7 +4322,7 @@
     },
     {
       "lotNumber": "326",
-      "address": "1715 East Haystack Mountain Court",
+      "address": "1715 E Haystack Mountain Court",
       "coordinates": {
         "lat": 40.5168611,
         "lng": -111.3869564
@@ -4340,7 +4340,7 @@
     },
     {
       "lotNumber": "327",
-      "address": "1717 East Haystack Mountain Court",
+      "address": "1717 E Haystack Mountain Court",
       "coordinates": {
         "lat": 40.5166066,
         "lng": -111.3867559
@@ -4358,7 +4358,7 @@
     },
     {
       "lotNumber": "328",
-      "address": "1718 East Haystack Mountain Court",
+      "address": "1718 E Haystack Mountain Court",
       "coordinates": {
         "lat": 40.5164621,
         "lng": -111.3869537
@@ -4376,7 +4376,7 @@
     },
     {
       "lotNumber": "329",
-      "address": "1716 East Haystack Mountain Court",
+      "address": "1716 E Haystack Mountain Court",
       "coordinates": {
         "lat": 40.516465,
         "lng": -111.3872621
@@ -4396,8 +4396,8 @@
       "lotNumber": "33",
       "address": "465 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5137034,
-        "lng": -111.38886
+        "lat": 40.51355575,
+        "lng": -111.3889356
       },
       "acreage": "0.5",
       "hasWaterAssessment": "FALSE",
@@ -4412,25 +4412,7 @@
     },
     {
       "lotNumber": "330",
-      "address": "1712 East Haystack Mountain Court",
-      "coordinates": {
-        "lat": 40.5166347,
-        "lng": -111.3875272
-      },
-      "acreage": "0.25",
-      "hasWaterAssessment": "FALSE",
-      "isAvailable": "TRUE",
-      "lotType": "(CLM) Custom Lot Medium",
-      "phaseName": "Mountain View",
-      "membershipType": "Golf",
-      "membershipStatus": "Paying",
-      "jonasMemberNumber": "300251",
-      "membershipPeriod": "",
-      "ownerName": "Keiser Family Trust"
-    },
-    {
-      "lotNumber": "330",
-      "address": "1712 East Haystack Mountain Court",
+      "address": "1712 E Haystack Mountain Court",
       "coordinates": {
         "lat": 40.5166347,
         "lng": -111.3875272
@@ -4447,8 +4429,26 @@
       "ownerName": "Joel Harris"
     },
     {
+      "lotNumber": "330",
+      "address": "1712 E Haystack Mountain Court",
+      "coordinates": {
+        "lat": 40.5166347,
+        "lng": -111.3875272
+      },
+      "acreage": "0.25",
+      "hasWaterAssessment": "FALSE",
+      "isAvailable": "TRUE",
+      "lotType": "(CLM) Custom Lot Medium",
+      "phaseName": "Mountain View",
+      "membershipType": "Golf",
+      "membershipStatus": "Paying",
+      "jonasMemberNumber": "300251",
+      "membershipPeriod": "",
+      "ownerName": "Keiser Family Trust"
+    },
+    {
       "lotNumber": "331",
-      "address": "1706 East Haystack Mountain Court or 716 North Mountain Drive",
+      "address": "1706 E Haystack Mountain Court or 716 N Mountain Drive",
       "coordinates": {
         "lat": 40.5168848,
         "lng": -111.3876713
@@ -4466,10 +4466,10 @@
     },
     {
       "lotNumber": "332",
-      "address": "706 North Haystack Mountain Drive",
+      "address": "706 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5158675,
-        "lng": -111.3886169
+        "lat": 40.51697267,
+        "lng": -111.3879249
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "FALSE",
@@ -4484,10 +4484,10 @@
     },
     {
       "lotNumber": "333",
-      "address": "696 North Haystack Mountain Drive",
+      "address": "696 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.515822,
-        "lng": -111.3885647
+        "lat": 40.51695636,
+        "lng": -111.3882521
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "FALSE",
@@ -4502,10 +4502,10 @@
     },
     {
       "lotNumber": "334",
-      "address": "684 North Haystack Mountain Drive",
+      "address": "684 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5157376,
-        "lng": -111.388475
+        "lat": 40.51689926,
+        "lng": -111.3886062
       },
       "acreage": "0.25999999",
       "hasWaterAssessment": "FALSE",
@@ -4520,10 +4520,10 @@
     },
     {
       "lotNumber": "335",
-      "address": "674 North Haystack Mountain Drive",
+      "address": "674 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.515674,
-        "lng": -111.3884097
+        "lat": 40.51671983,
+        "lng": -111.3887886
       },
       "acreage": "0.270000011",
       "hasWaterAssessment": "FALSE",
@@ -4540,8 +4540,8 @@
       "lotNumber": "336",
       "address": "658 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5153032,
-        "lng": -111.3888459
+        "lat": 40.5164629,
+        "lng": -111.3889924
       },
       "acreage": "0.270000011",
       "hasWaterAssessment": "FALSE",
@@ -4558,8 +4558,8 @@
       "lotNumber": "337",
       "address": "648 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5155218,
-        "lng": -111.3882713
+        "lat": 40.51623453,
+        "lng": -111.3889978
       },
       "acreage": "0.25",
       "hasWaterAssessment": "FALSE",
@@ -4576,8 +4576,8 @@
       "lotNumber": "338",
       "address": "642 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5155128,
-        "lng": -111.3882649
+        "lat": 40.51598168,
+        "lng": -111.3890031
       },
       "acreage": "0.25",
       "hasWaterAssessment": "FALSE",
@@ -4594,8 +4594,8 @@
       "lotNumber": "339",
       "address": "626 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5151033,
-        "lng": -111.3892691
+        "lat": 40.51572883,
+        "lng": -111.388869
       },
       "acreage": "0.270000011",
       "hasWaterAssessment": "FALSE",
@@ -4630,8 +4630,8 @@
       "lotNumber": "340",
       "address": "618 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.515056,
-        "lng": -111.3892349
+        "lat": 40.51553308,
+        "lng": -111.3886866
       },
       "acreage": "0.25",
       "hasWaterAssessment": "FALSE",
@@ -4648,8 +4648,8 @@
       "lotNumber": "341",
       "address": "606 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5154328,
-        "lng": -111.3882076
+        "lat": 40.51535364,
+        "lng": -111.3884667
       },
       "acreage": "0.25",
       "hasWaterAssessment": "FALSE",
@@ -4666,8 +4666,8 @@
       "lotNumber": "342",
       "address": "604 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5152041,
-        "lng": -111.3880519
+        "lat": 40.51506817,
+        "lng": -111.3883004
       },
       "acreage": "0.239999995",
       "hasWaterAssessment": "FALSE",
@@ -4784,9 +4784,9 @@
       "phaseName": "Overlook",
       "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "300346",
+      "jonasMemberNumber": "300555",
       "membershipPeriod": "",
-      "ownerName": "Mike and Jill Torres"
+      "ownerName": "David & Cathleen Schaede"
     },
     {
       "lotNumber": "349",
@@ -5036,7 +5036,7 @@
       "phaseName": "Overlook",
       "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "300339",
+      "jonasMemberNumber": "300528",
       "membershipPeriod": "",
       "ownerName": "BK Red Ledges, LLC"
     },
@@ -5152,8 +5152,8 @@
       "lotNumber": "366",
       "address": "2063 E Oquirrh Mountain Circle",
       "coordinates": {
-        "lat": 40.5237578,
-        "lng": -111.3814126
+        "lat": 40.52414032,
+        "lng": -111.3809556
       },
       "acreage": "0.639999986",
       "hasWaterAssessment": "TRUE",
@@ -5170,8 +5170,8 @@
       "lotNumber": "366",
       "address": "2063 E Oquirrh Mountain Circle",
       "coordinates": {
-        "lat": 40.5237578,
-        "lng": -111.3814126
+        "lat": 40.52414032,
+        "lng": -111.3809556
       },
       "acreage": "0.639999986",
       "hasWaterAssessment": "TRUE",
@@ -5260,8 +5260,8 @@
       "lotNumber": "370",
       "address": "1961 E Upper Lookout Knoll Circle",
       "coordinates": {
-        "lat": 33.2294332,
-        "lng": -87.590753
+        "lat": 40.527902,
+        "lng": -111.3842852
       },
       "acreage": "4.789999962",
       "hasWaterAssessment": "FALSE",
@@ -5332,8 +5332,8 @@
       "lotNumber": "374",
       "address": "1331 N Oquirrh Mountain Drive",
       "coordinates": {
-        "lat": 40.5242277,
-        "lng": -111.3819601
+        "lat": 40.52479039,
+        "lng": -111.3828399
       },
       "acreage": "0.5",
       "hasWaterAssessment": "TRUE",
@@ -5378,9 +5378,9 @@
       "phaseName": "DR Summit Knoll",
       "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "300465",
+      "jonasMemberNumber": "300274",
       "membershipPeriod": "",
-      "ownerName": "Gordon Todd and Rachael Bishop"
+      "ownerName": "Jennifer Lentine"
     },
     {
       "lotNumber": "377",
@@ -5908,8 +5908,8 @@
       "lotNumber": "4",
       "address": "127 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.50829634,
+        "lng": -111.3863386
       },
       "acreage": "0.529999971",
       "hasWaterAssessment": "FALSE",
@@ -5942,10 +5942,10 @@
     },
     {
       "lotNumber": "400",
-      "address": "663 North Explorer Peak Dr",
+      "address": "663 N Explorer Peak Drive",
       "coordinates": {
-        "lat": 40.5215993,
-        "lng": -111.3752719
+        "lat": 40.51552463,
+        "lng": -111.3754986
       },
       "acreage": "0.829999983",
       "hasWaterAssessment": "FALSE",
@@ -5960,10 +5960,10 @@
     },
     {
       "lotNumber": "401",
-      "address": "685 North Explorer Peak Dr",
+      "address": "685 N Explorer Peak Drive",
       "coordinates": {
-        "lat": 40.5215993,
-        "lng": -111.3752719
+        "lat": 40.51586788,
+        "lng": -111.3758759
       },
       "acreage": "1.470000029",
       "hasWaterAssessment": "FALSE",
@@ -5998,8 +5998,8 @@
       "lotNumber": "403",
       "address": "753 N Explorer Peak",
       "coordinates": {
-        "lat": 40.516946,
-        "lng": -111.3747401
+        "lat": 40.51690496,
+        "lng": -111.3746873
       },
       "acreage": "0.860000014",
       "hasWaterAssessment": "FALSE",
@@ -6034,8 +6034,8 @@
       "lotNumber": "405",
       "address": "819 N Explorer Peak",
       "coordinates": {
-        "lat": 40.5215993,
-        "lng": -111.3752719
+        "lat": 40.51806836,
+        "lng": -111.3751761
       },
       "acreage": "1.00999999",
       "hasWaterAssessment": "FALSE",
@@ -6070,8 +6070,8 @@
       "lotNumber": "407",
       "address": "862 N Explorer Peak",
       "coordinates": {
-        "lat": 40.5184877,
-        "lng": -111.3745874
+        "lat": 40.51847944,
+        "lng": -111.3745875
       },
       "acreage": "0.899999976",
       "hasWaterAssessment": "FALSE",
@@ -6358,8 +6358,8 @@
       "lotNumber": "421",
       "address": "914 N Explorer Peak",
       "coordinates": {
-        "lat": 40.5203874,
-        "lng": -111.3752785
+        "lat": 40.51938798,
+        "lng": -111.3748006
       },
       "acreage": "0.930000007",
       "hasWaterAssessment": "FALSE",
@@ -6726,8 +6726,8 @@
       "isAvailable": "TRUE",
       "lotType": "(CLM) Custom Lot Medium",
       "phaseName": "Original Release",
-      "membershipType": "Golf",
-      "membershipStatus": "Paying",
+      "membershipType": "Lifestyle",
+      "membershipStatus": "Trade-In",
       "jonasMemberNumber": "100189",
       "membershipPeriod": "swapped lot 325 golf w lot 44 lifestyle",
       "ownerName": "The Kimberly D. Danley Trust"
@@ -6744,8 +6744,8 @@
       "isAvailable": "TRUE",
       "lotType": "(CLM) Custom Lot Medium",
       "phaseName": "Original Release",
-      "membershipType": "Lifestyle",
-      "membershipStatus": "Trade-In",
+      "membershipType": "Golf",
+      "membershipStatus": "Paying",
       "jonasMemberNumber": "100189",
       "membershipPeriod": "swapped lot 325 golf w lot 44 lifestyle",
       "ownerName": "The Kimberly D. Danley Trust"
@@ -7446,11 +7446,11 @@
       "isAvailable": "TRUE",
       "lotType": "(CLL) Custom Lot Large",
       "phaseName": "Summit Loop",
-      "membershipType": "Golf",
+      "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "100678",
+      "jonasMemberNumber": "300553",
       "membershipPeriod": "",
-      "ownerName": "San Rafael Holdings, LLC"
+      "ownerName": "Tisha & Dean Barberree"
     },
     {
       "lotNumber": "478",
@@ -7626,9 +7626,9 @@
       "isAvailable": "TRUE",
       "lotType": "(CLL) Custom Lot Large",
       "phaseName": "Summit Loop",
-      "membershipType": "Golf",
-      "membershipStatus": "Trade-In",
-      "jonasMemberNumber": "100701",
+      "membershipType": "Golf Park",
+      "membershipStatus": "Paying",
+      "jonasMemberNumber": "200070",
       "membershipPeriod": "Downgraded from Golf to Golf Park 2/5/24",
       "ownerName": "Alkhas Family Trust"
     },
@@ -7644,9 +7644,9 @@
       "isAvailable": "TRUE",
       "lotType": "(CLL) Custom Lot Large",
       "phaseName": "Summit Loop",
-      "membershipType": "Golf Park",
-      "membershipStatus": "Paying",
-      "jonasMemberNumber": "200070",
+      "membershipType": "Golf",
+      "membershipStatus": "Trade-In",
+      "jonasMemberNumber": "100701",
       "membershipPeriod": "Downgraded from Golf to Golf Park 2/5/24",
       "ownerName": "Alkhas Family Trust"
     },
@@ -7726,8 +7726,8 @@
       "lotNumber": "49",
       "address": "1350 N Oquirrh Mountain Drive",
       "coordinates": {
-        "lat": 40.5236955,
-        "lng": -111.3845196
+        "lat": 40.52416033,
+        "lng": -111.382406
       },
       "acreage": "0.74000001",
       "hasWaterAssessment": "FALSE",
@@ -7924,8 +7924,8 @@
       "lotNumber": "5",
       "address": "133 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5097018,
-        "lng": -111.3891944
+        "lat": 40.5084283,
+        "lng": -111.3868012
       },
       "acreage": "0.529999971",
       "hasWaterAssessment": "FALSE",
@@ -8408,7 +8408,7 @@
     },
     {
       "lotNumber": "523",
-      "address": "680  Pinto Knoll Circle",
+      "address": "680 N Pinto Knoll Circle",
       "coordinates": {
         "lat": 40.515992,
         "lng": -111.366118
@@ -8426,7 +8426,7 @@
     },
     {
       "lotNumber": "523",
-      "address": "680  Pinto Knoll Circle",
+      "address": "680 N Pinto Knoll Circle",
       "coordinates": {
         "lat": 40.515992,
         "lng": -111.366118
@@ -9958,8 +9958,8 @@
       "lotNumber": "6",
       "address": "100 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5141987,
-        "lng": -111.3883995
+        "lat": 40.5087305,
+        "lng": -111.3845447
       },
       "acreage": "0.50999999",
       "hasWaterAssessment": "FALSE",
@@ -10994,9 +10994,9 @@
       "phaseName": "DR Crown Ridge",
       "membershipType": "Golf",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "100593",
+      "jonasMemberNumber": "100907",
       "membershipPeriod": "",
-      "ownerName": "The Steven Siciliani 2012 Irrevocable Trust"
+      "ownerName": "Raife Family Trust"
     },
     {
       "lotNumber": "652",
@@ -11118,10 +11118,10 @@
       "isAvailable": "FALSE",
       "lotType": "(BFSDetHD1) Detached Autocourt",
       "phaseName": "DR Mountainside Interior Loop",
-      "membershipType": "Golf",
+      "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
       "jonasMemberNumber": "300219",
-      "membershipPeriod": "",
+      "membershipPeriod": "Swap 532 L w/ 658 G",
       "ownerName": "KP Properties of Utah, LLC"
     },
     {
@@ -11136,10 +11136,10 @@
       "isAvailable": "FALSE",
       "lotType": "(BFSDetHD1) Detached Autocourt",
       "phaseName": "DR Mountainside Interior Loop",
-      "membershipType": "Lifestyle",
+      "membershipType": "Golf",
       "membershipStatus": "Paying",
       "jonasMemberNumber": "300219",
-      "membershipPeriod": "Swap 532 L w/ 658 G",
+      "membershipPeriod": "",
       "ownerName": "KP Properties of Utah, LLC"
     },
     {
@@ -11866,8 +11866,8 @@
       "lotNumber": "7",
       "address": "108 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5141987,
-        "lng": -111.3883995
+        "lat": 40.50872675,
+        "lng": -111.3850366
       },
       "acreage": "0.50999999",
       "hasWaterAssessment": "FALSE",
@@ -12958,7 +12958,7 @@
       "membershipStatus": "Paying",
       "jonasMemberNumber": "100375",
       "membershipPeriod": "",
-      "ownerName": "Robert and Lisa Mendenhall"
+      "ownerName": "Jason & Lisa Mendenhall"
     },
     {
       "lotNumber": "77",
@@ -12976,7 +12976,7 @@
       "membershipStatus": "Paying",
       "jonasMemberNumber": "100375",
       "membershipPeriod": "",
-      "ownerName": "Jason & Lisa Mendenhall"
+      "ownerName": "Robert and Lisa Mendenhall"
     },
     {
       "lotNumber": "770",
@@ -13160,7 +13160,7 @@
     },
     {
       "lotNumber": "78",
-      "address": "2220 East Flat Top Mountain Drive",
+      "address": "2220 E Flat Top Mountain Drive",
       "coordinates": {
         "lat": 40.518824,
         "lng": -111.379518
@@ -13250,7 +13250,7 @@
     },
     {
       "lotNumber": "789",
-      "address": "2090 East Flat Top Mountain Drive",
+      "address": "2090 E Flat Top Mountain Drive",
       "coordinates": {
         "lat": 40.5197798,
         "lng": -111.3812619
@@ -13268,7 +13268,7 @@
     },
     {
       "lotNumber": "790",
-      "address": "2114 East Flat Top Mountain Drive",
+      "address": "2114 E Flat Top Mountain Drive",
       "coordinates": {
         "lat": 40.519694,
         "lng": -111.380942
@@ -13304,7 +13304,7 @@
     },
     {
       "lotNumber": "792",
-      "address": "2166 East Flat Top Mountain Drive",
+      "address": "2166 E Flat Top Mountain Drive",
       "coordinates": {
         "lat": 40.5192974,
         "lng": -111.3802878
@@ -13432,8 +13432,8 @@
       "lotNumber": "8",
       "address": "116 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5103952,
-        "lng": -111.3893371
+        "lat": 40.50873976,
+        "lng": -111.3855544
       },
       "acreage": "0.529999971",
       "hasWaterAssessment": "TRUE",
@@ -14206,8 +14206,8 @@
       "lotNumber": "9",
       "address": "126 N Haystack Mountain Drive",
       "coordinates": {
-        "lat": 40.5103952,
-        "lng": -111.3893371
+        "lat": 40.50869402,
+        "lng": -111.3862118
       },
       "acreage": "0.50999999",
       "hasWaterAssessment": "TRUE",
@@ -14258,7 +14258,7 @@
     },
     {
       "lotNumber": "901",
-      "address": "3335 E Boulder Top Way or 1314 N Grand View Peak Ct",
+      "address": "3335 E Boulder Top Way or 1314 N Grand View Peak Court",
       "coordinates": {
         "lat": 40.5234585,
         "lng": -111.3613017
@@ -14276,7 +14276,7 @@
     },
     {
       "lotNumber": "902",
-      "address": "1328 N Grand View Peak Ct (Anthony)",
+      "address": "1328 N Grand View Peak Court (Anthony)",
       "coordinates": {
         "lat": 40.52411282,
         "lng": -111.3614705
@@ -14294,7 +14294,7 @@
     },
     {
       "lotNumber": "903",
-      "address": "1348 N Grand View Peak Ct (Nolan)",
+      "address": "1348 N Grand View Peak Court (Nolan)",
       "coordinates": {
         "lat": 40.52443765,
         "lng": -111.3619166
@@ -14312,7 +14312,7 @@
     },
     {
       "lotNumber": "904",
-      "address": "1394 N Grand View Peak Ct (Nolan)",
+      "address": "1394 N Grand View Peak Court (Nolan)",
       "coordinates": {
         "lat": 41.6032207,
         "lng": -73.087749
@@ -14330,7 +14330,7 @@
     },
     {
       "lotNumber": "905",
-      "address": "1396 N Grand View Peak Ct",
+      "address": "1396 N Grand View Peak Court",
       "coordinates": {
         "lat": 40.52487483,
         "lng": -111.363231
@@ -14348,7 +14348,7 @@
     },
     {
       "lotNumber": "906",
-      "address": "1399 N Grand View Peak Ct",
+      "address": "1399 N Grand View Peak Court",
       "coordinates": {
         "lat": 42.0283604,
         "lng": -72.6920969
@@ -14366,7 +14366,7 @@
     },
     {
       "lotNumber": "907",
-      "address": "1385 N Grand View Peak Ct",
+      "address": "1385 N Grand View Peak Court",
       "coordinates": {
         "lat": 40.52445166,
         "lng": -111.363207
@@ -14384,7 +14384,7 @@
     },
     {
       "lotNumber": "908",
-      "address": "3293 E Boulder Top Way or 1355 N Grand View Peak Ct or 1311 N Grand Peak Ct",
+      "address": "3293 E Boulder Top Way or 1355 N Grand View Peak Court or 1311 N Grand Peak Court",
       "coordinates": {
         "lat": 40.5237381,
         "lng": -111.3621868
@@ -14692,8 +14692,8 @@
       "lotNumber": "94",
       "address": "2575 E Red Knob Way or 748 N Explorer Peak",
       "coordinates": {
-        "lat": 40.5149385,
-        "lng": -111.3752721
+        "lat": 40.51651126,
+        "lng": -111.3740599
       },
       "acreage": "0.819999993",
       "hasWaterAssessment": "FALSE",
@@ -14710,8 +14710,8 @@
       "lotNumber": "95",
       "address": "2611 E Red Knob Way",
       "coordinates": {
-        "lat": 40.5149385,
-        "lng": -111.3752721
+        "lat": 40.51646877,
+        "lng": -111.3732798
       },
       "acreage": "0.810000002",
       "hasWaterAssessment": "FALSE",
@@ -14728,8 +14728,8 @@
       "lotNumber": "96",
       "address": "2661 E Red Knob Way",
       "coordinates": {
-        "lat": 40.5149385,
-        "lng": -111.3752721
+        "lat": 40.51696643,
+        "lng": -111.3727298
       },
       "acreage": "1.149999976",
       "hasWaterAssessment": "FALSE",
@@ -14780,7 +14780,7 @@
     },
     {
       "lotNumber": "AV-1C",
-      "address": "242 N. Red Ledges Village Way",
+      "address": "242 N Red Ledges Village Way",
       "coordinates": {
         "lat": 40.5084564,
         "lng": -111.3835962
@@ -14798,7 +14798,7 @@
     },
     {
       "lotNumber": "AV-2C",
-      "address": "254 N. Red Ledges Village Way",
+      "address": "254 N Red Ledges Village Way",
       "coordinates": {
         "lat": 40.5084564,
         "lng": -111.3835962
@@ -14834,7 +14834,7 @@
     },
     {
       "lotNumber": "AV-5C",
-      "address": "314 N. Red Ledges Village Way",
+      "address": "314 N Red Ledges Village Way",
       "coordinates": {
         "lat": 40.5084564,
         "lng": -111.3835962
@@ -14852,7 +14852,7 @@
     },
     {
       "lotNumber": "AV-6C",
-      "address": "332 N. Red Ledges Village Way",
+      "address": "332 N Red Ledges Village Way",
       "coordinates": {
         "lat": 40.5084564,
         "lng": -111.3835962
@@ -16400,7 +16400,7 @@
     },
     {
       "lotNumber": "CP-1",
-      "address": "1896 E. Kings Peak Circle",
+      "address": "1896 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5092208,
         "lng": -111.3843168
@@ -16418,7 +16418,7 @@
     },
     {
       "lotNumber": "CP-10",
-      "address": "1744 E. Kings Peak Circle",
+      "address": "1744 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5095366,
         "lng": -111.3866329
@@ -16436,7 +16436,7 @@
     },
     {
       "lotNumber": "CP-11",
-      "address": "1730 E. Kings Peak Circle",
+      "address": "1730 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5096641,
         "lng": -111.3868341
@@ -16454,7 +16454,7 @@
     },
     {
       "lotNumber": "CP-12",
-      "address": "1710 E. Kings Peak Circle",
+      "address": "1710 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5098584,
         "lng": -111.387101
@@ -16472,7 +16472,7 @@
     },
     {
       "lotNumber": "CP-13",
-      "address": "1704 E. Kings Peak Circle",
+      "address": "1704 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5100273,
         "lng": -111.3874182
@@ -16490,7 +16490,7 @@
     },
     {
       "lotNumber": "CP-14",
-      "address": "1702 E. Kings Peak Circle",
+      "address": "1702 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5102638,
         "lng": -111.3874229
@@ -16508,7 +16508,7 @@
     },
     {
       "lotNumber": "CP-15",
-      "address": "1700 E. Kings Peak Circle",
+      "address": "1700 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5104587,
         "lng": -111.3872149
@@ -16526,7 +16526,7 @@
     },
     {
       "lotNumber": "CP-16",
-      "address": "1701 E. Kings Peak Circle",
+      "address": "1701 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071111,
         "lng": -111.8728545
@@ -16544,7 +16544,7 @@
     },
     {
       "lotNumber": "CP-17",
-      "address": "1707 E. Kings Peak Circle",
+      "address": "1707 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071111,
         "lng": -111.8728555
@@ -16562,7 +16562,7 @@
     },
     {
       "lotNumber": "CP-18",
-      "address": "1717 E. Kings Peak Circle",
+      "address": "1717 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071113,
         "lng": -111.8728571
@@ -16580,7 +16580,7 @@
     },
     {
       "lotNumber": "CP-19",
-      "address": "1735 E. Kings Peak Circle",
+      "address": "1735 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071115,
         "lng": -111.87286
@@ -16598,7 +16598,7 @@
     },
     {
       "lotNumber": "CP-2",
-      "address": "1874 E. Kings Peak Circle",
+      "address": "1874 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5092091,
         "lng": -111.3845875
@@ -16616,7 +16616,7 @@
     },
     {
       "lotNumber": "CP-20",
-      "address": "1751 E. Kings Peak Circle",
+      "address": "1751 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071117,
         "lng": -111.8728626
@@ -16634,7 +16634,7 @@
     },
     {
       "lotNumber": "CP-21",
-      "address": "1765 E. Kings Peak Circle",
+      "address": "1765 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071118,
         "lng": -111.8728649
@@ -16652,7 +16652,7 @@
     },
     {
       "lotNumber": "CP2-1",
-      "address": "2522 East Red Knob Way",
+      "address": "2522 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16670,7 +16670,7 @@
     },
     {
       "lotNumber": "CP2-10",
-      "address": "2632 East Red Knob Way",
+      "address": "2632 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16688,7 +16688,7 @@
     },
     {
       "lotNumber": "CP2-11",
-      "address": "2646 East Red Knob Way",
+      "address": "2646 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16706,7 +16706,7 @@
     },
     {
       "lotNumber": "CP2-12",
-      "address": "2662 East Red Knob Way",
+      "address": "2662 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16724,7 +16724,7 @@
     },
     {
       "lotNumber": "CP-22",
-      "address": "181 N. Kings Peak Court",
+      "address": "181 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0262636,
         "lng": -115.0140408
@@ -16742,7 +16742,7 @@
     },
     {
       "lotNumber": "CP2-2",
-      "address": "2536 East Red Knob Way",
+      "address": "2536 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16778,7 +16778,7 @@
     },
     {
       "lotNumber": "CP2-3",
-      "address": "2548 East Red Knob Way",
+      "address": "2548 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16796,7 +16796,7 @@
     },
     {
       "lotNumber": "CP-24",
-      "address": "223 N. Kings Peak Court",
+      "address": "223 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -16814,7 +16814,7 @@
     },
     {
       "lotNumber": "CP2-4",
-      "address": "2558 East Red Knob Way",
+      "address": "2558 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16832,7 +16832,7 @@
     },
     {
       "lotNumber": "CP-25",
-      "address": "245 N. Kings Peak Court",
+      "address": "245 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -16850,7 +16850,7 @@
     },
     {
       "lotNumber": "CP2-5",
-      "address": "2572 East Red Knob Way",
+      "address": "2572 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16886,7 +16886,7 @@
     },
     {
       "lotNumber": "CP2-6",
-      "address": "2582 East Red Knob Way",
+      "address": "2582 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16904,7 +16904,7 @@
     },
     {
       "lotNumber": "CP-27",
-      "address": "285 N. Kings Peak Court",
+      "address": "285 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -16922,7 +16922,7 @@
     },
     {
       "lotNumber": "CP2-7",
-      "address": "2594 East Red Knob Way",
+      "address": "2594 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16940,7 +16940,7 @@
     },
     {
       "lotNumber": "CP-28",
-      "address": "287 N. Kings Peak Court",
+      "address": "287 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -16958,7 +16958,7 @@
     },
     {
       "lotNumber": "CP2-8",
-      "address": "2606 East Red Knob Way",
+      "address": "2606 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -16976,7 +16976,7 @@
     },
     {
       "lotNumber": "CP-29",
-      "address": "289 N. Kings Peak Court",
+      "address": "289 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -16994,7 +16994,7 @@
     },
     {
       "lotNumber": "CP2-9",
-      "address": "2618 East Red Knob Way",
+      "address": "2618 E Red Knob Way",
       "coordinates": {
         "lat": 40.5149385,
         "lng": -111.3752721
@@ -17012,7 +17012,7 @@
     },
     {
       "lotNumber": "CP-3",
-      "address": "1850 E. Kings Peak Circle",
+      "address": "1850 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5092237,
         "lng": -111.3848605
@@ -17030,7 +17030,7 @@
     },
     {
       "lotNumber": "CP-30",
-      "address": "288 N. Kings Peak Court",
+      "address": "288 N Kings Peak Court",
       "coordinates": {
         "lat": 33.4848758,
         "lng": -111.7012052
@@ -17048,7 +17048,7 @@
     },
     {
       "lotNumber": "CP-31",
-      "address": "286 N. Kings Peak Court",
+      "address": "286 N Kings Peak Court",
       "coordinates": {
         "lat": 33.4848758,
         "lng": -111.7012052
@@ -17084,7 +17084,7 @@
     },
     {
       "lotNumber": "CP-33",
-      "address": "252 N. Kings Peak Court",
+      "address": "252 N Kings Peak Court",
       "coordinates": {
         "lat": 33.4848758,
         "lng": -111.7012052
@@ -17102,7 +17102,7 @@
     },
     {
       "lotNumber": "CP-34",
-      "address": "236 N. Kings Peak Court",
+      "address": "236 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -17120,7 +17120,7 @@
     },
     {
       "lotNumber": "CP-35",
-      "address": "220 N. Kings Peak Court",
+      "address": "220 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -17138,7 +17138,7 @@
     },
     {
       "lotNumber": "CP-36",
-      "address": "206 N. Kings Peak Court",
+      "address": "206 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0261906,
         "lng": -115.0140389
@@ -17156,7 +17156,7 @@
     },
     {
       "lotNumber": "CP-37",
-      "address": "194 N. Kings Peak Court",
+      "address": "194 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0262291,
         "lng": -115.0140399
@@ -17174,7 +17174,7 @@
     },
     {
       "lotNumber": "CP-38",
-      "address": "180 N. Kings Peak Court",
+      "address": "180 N Kings Peak Court",
       "coordinates": {
         "lat": 36.0263084,
         "lng": -115.0140415
@@ -17192,7 +17192,7 @@
     },
     {
       "lotNumber": "CP-39",
-      "address": "1857 E. Kings Peak Circle",
+      "address": "1857 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071129,
         "lng": -111.8728798
@@ -17210,7 +17210,7 @@
     },
     {
       "lotNumber": "CP-4",
-      "address": "1830 E. Kings Peak Circle",
+      "address": "1830 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5092287,
         "lng": -111.3851195
@@ -17228,7 +17228,7 @@
     },
     {
       "lotNumber": "CP-40",
-      "address": "1881 E. Kings Peak Circle",
+      "address": "1881 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071132,
         "lng": -111.8728837
@@ -17246,7 +17246,7 @@
     },
     {
       "lotNumber": "CP-41",
-      "address": "1905 E. Kings Peak Circle",
+      "address": "1905 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5071135,
         "lng": -111.8728876
@@ -17264,7 +17264,7 @@
     },
     {
       "lotNumber": "CP-5",
-      "address": "1808 E. Kings Peak Circle",
+      "address": "1808 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5092182,
         "lng": -111.3853843
@@ -17282,7 +17282,7 @@
     },
     {
       "lotNumber": "CP-6",
-      "address": "1790 E. Kings Peak Circle",
+      "address": "1790 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5092335,
         "lng": -111.3856635
@@ -17300,7 +17300,7 @@
     },
     {
       "lotNumber": "CP-7",
-      "address": "1780 E. Kings Peak Circle",
+      "address": "1780 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5093064,
         "lng": -111.3859044
@@ -17318,7 +17318,7 @@
     },
     {
       "lotNumber": "CP-8",
-      "address": "1766 E. Kings Peak Circle",
+      "address": "1766 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5093386,
         "lng": -111.3861704
@@ -17336,7 +17336,7 @@
     },
     {
       "lotNumber": "CP-9",
-      "address": "1754 E. Kings Peak Circle",
+      "address": "1754 E Kings Peak Circle",
       "coordinates": {
         "lat": 40.5093946,
         "lng": -111.386437
@@ -17384,9 +17384,9 @@
       "phaseName": "Juniper Hills",
       "membershipType": "Golf",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "100483",
-      "membershipPeriod": "swapped L on JH-10 with G on JH-1",
-      "ownerName": "Gigi Trust, U/A/D"
+      "jonasMemberNumber": "100906",
+      "membershipPeriod": "",
+      "ownerName": "Terje Meyers Haugen & Christina Bente Buck"
     },
     {
       "lotNumber": "JH-11",
@@ -17732,7 +17732,7 @@
     },
     {
       "lotNumber": "TV-10D",
-      "address": "1642 E.Abajo Peak Court",
+      "address": "1642 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.5106115,
         "lng": -111.3888674
@@ -17750,7 +17750,7 @@
     },
     {
       "lotNumber": "TV-11",
-      "address": "284 North Abajo Peak Way",
+      "address": "284 N Abajo Peak Way",
       "coordinates": {
         "lat": 40.5108211,
         "lng": -111.3877754
@@ -17768,7 +17768,7 @@
     },
     {
       "lotNumber": "TV-12",
-      "address": "292 North Abajo Peak Way",
+      "address": "292 N Abajo Peak Way",
       "coordinates": {
         "lat": 40.5108721,
         "lng": -111.3877427
@@ -17786,7 +17786,7 @@
     },
     {
       "lotNumber": "TV-13",
-      "address": "302 North Abajo Peak Way",
+      "address": "302 N Abajo Peak Way",
       "coordinates": {
         "lat": 40.5110739,
         "lng": -111.3875948
@@ -17804,7 +17804,7 @@
     },
     {
       "lotNumber": "TV-14",
-      "address": "308 North Abajo Peak Way",
+      "address": "308 N Abajo Peak Way",
       "coordinates": {
         "lat": 40.5111527,
         "lng": -111.3875459
@@ -17858,7 +17858,7 @@
     },
     {
       "lotNumber": "TV-17",
-      "address": "1664 East Abajo Peak Circle",
+      "address": "1664 E Abajo Peak Circle",
       "coordinates": {
         "lat": 40.511144,
         "lng": -111.388142
@@ -17876,7 +17876,7 @@
     },
     {
       "lotNumber": "TV-18",
-      "address": "1654 East Abajo Peak Circle",
+      "address": "1654 E Abajo Peak Circle",
       "coordinates": {
         "lat": 40.511185,
         "lng": -111.388251
@@ -18092,7 +18092,7 @@
     },
     {
       "lotNumber": "TV-29",
-      "address": "1655 East Abajo Peak Circle",
+      "address": "1655 E Abajo Peak Circle",
       "coordinates": {
         "lat": 40.5115138,
         "lng": -111.3879982
@@ -18128,7 +18128,7 @@
     },
     {
       "lotNumber": "TV-30",
-      "address": "1665 East Abajo Peak Circle",
+      "address": "1665 E Abajo Peak Circle",
       "coordinates": {
         "lat": 40.5114379,
         "lng": -111.3878964
@@ -18140,13 +18140,13 @@
       "phaseName": "Mountain Villa - Timpanogos",
       "membershipType": "Lifestyle",
       "membershipStatus": "Paying",
-      "jonasMemberNumber": "700071",
+      "jonasMemberNumber": "300544",
       "membershipPeriod": "",
-      "ownerName": "Julie Monahan"
+      "ownerName": "Dona and Christine Borelli"
     },
     {
       "lotNumber": "TV-3D",
-      "address": "1639 E. Abajo Peak Court",
+      "address": "1639 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.5107483,
         "lng": -111.3882802
@@ -18164,7 +18164,7 @@
     },
     {
       "lotNumber": "TV-4D",
-      "address": "1629 E. Abajo Peak Court",
+      "address": "1629 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.5108103,
         "lng": -111.3884613
@@ -18182,7 +18182,7 @@
     },
     {
       "lotNumber": "TV-5D",
-      "address": "1623 E. Abajo Peak Court",
+      "address": "1623 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.5107728,
         "lng": -111.3883554
@@ -18200,7 +18200,7 @@
     },
     {
       "lotNumber": "TV-6D",
-      "address": "1621 E. Abajo Peak Court",
+      "address": "1621 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.5117839,
         "lng": -111.3889574
@@ -18218,7 +18218,7 @@
     },
     {
       "lotNumber": "TV-7D",
-      "address": "1622 E. Abajo Peak Court",
+      "address": "1622 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.510958,
         "lng": -111.3886797
@@ -18236,7 +18236,7 @@
     },
     {
       "lotNumber": "TV-8D",
-      "address": "1624 E. Abajo Peak Court",
+      "address": "1624 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.5109272,
         "lng": -111.3888523
@@ -18254,7 +18254,7 @@
     },
     {
       "lotNumber": "TV-9D",
-      "address": "1632 E.Abajo Peak Court",
+      "address": "1632 E Abajo Peak Court",
       "coordinates": {
         "lat": 40.510497,
         "lng": -111.3886759

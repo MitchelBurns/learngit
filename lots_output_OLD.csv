@@ -1,8 +1,8 @@
-﻿blank,LotId,Address,Acreage,Latitude,Longitude,GeocodeStatus,HasWaterAssessment,IsAvailable,LotTypeDescription,PhaseName,JonasMemberNumber,MembershipPeriod,OwnerName,MembershipType,MembershipStatus
-,1,105 N Haystack Mountain Drive,0.519999981,40.50817781,-111.3847697,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100117,,Michael O'Connor,Lifestyle,Paying
-,10,134 N Haystack Mountain Drive,0.550000012,40.50896068,-111.3865486,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100715,,Himmel Haus RL LLC,Golf,Paying
+blank,LotId,Address,Acreage,Latitude,Longitude,GeocodeStatus,HasWaterAssessment,IsAvailable,LotTypeDescription,PhaseName,JonasMemberNumber,MembershipPeriod,OwnerName,MembershipType,MembershipStatus
+,1,105 N Haystack Mountain Drive,0.519999981,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100117,,Michael O'Connor,Lifestyle,Paying
+,10,134 N Haystack Mountain Drive,0.550000012,40.5103952,-111.3893371,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100715,,Himmel Haus RL LLC,Golf,Paying
 ,100,2911 E Brown Duck Mountain Circle or 711 N Red Ledges Boulevard,0.529999971,40.5158205,-111.3679449,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100491,,Jeff and Crista Bazoian,Golf,Paying
-,101,2891 E Brown Duck Mountain Circle or 735 N Red Ledges Boulevard,0.50999999,40.5160921,-111.3683067,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200002,,Michael and Jocelyn Osier,Golf Park,Paying
+,101,2891 E Brown Duck Mountain Circle or 735 N Red Ledges Blvd,0.50999999,40.5160921,-111.3683067,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200002,,Michael and Jocelyn Osier,Golf Park,Paying
 ,102,2881 E Brown Duck Mountain Circle,0.569999993,40.5161258,-111.3685724,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,0,,Jonathan and Julia Lecker,No Membership,Combined
 ,103,2880 E Brown Duck Mountain Circle,0.540000021,40.516045,-111.3691376,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200011,,Jamie and Julia Lecker,Golf Park,Paying
 ,104,2884 E Brown Duck Mountain Circle,0.409999996,40.5158404,-111.3687998,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,500005,,Richard Boland,Lifestyle,Paying
@@ -11,7 +11,7 @@
 ,107,2910 E Brown Duck Mountain Circle,0.5,40.5152669,-111.3681505,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100573,,Cindy Jo and Harold Arthur Wing,Golf,Paying
 ,108,2918 E Brown Duck Mountain Circle,0.529999971,40.5154752,-111.3678275,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100032,,Alan Astle,Golf,Paying
 ,109,2930 E Brown Duck Mountain Circle,0.629999995,40.5151619,-111.3674138,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100017,,Vicki Merchant,Golf,Paying
-,11,142 N Haystack Mountain Drive,0.519999981,40.50917681,-111.3870222,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,100767,,Kent Bozarth,Golf,Paying
+,11,142 N Haystack Mountain Drive,0.519999981,40.5103952,-111.3893371,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,100767,,Kent Bozarth,Golf,Paying
 ,110,601 N Red Ledges Boulevard,0.680000007,40.514772,-111.3676271,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100122,,Trango Properties,Golf,Paying
 ,111,565 N Red Ledges Boulevard,0.550000012,40.5145388,-111.3677394,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100421,,William and Patricia Kaszton,Lifestyle,Paying
 ,112,551 N Red Ledges Boulevard,0.460000008,40.514188,-111.367389,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100654,,James and Wendy Karp,Golf,Paying
@@ -22,18 +22,18 @@
 ,117,427 N Red Ledges Boulevard,0.419999987,40.5127931,-111.3672288,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100106,,Eugene L. and Lori A Batchelder Revocable Trust,Lifestyle,Paying
 ,118,393 N Red Ledges Boulevard,0.610000014,40.5124614,-111.3672591,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100010,,"Diane Dwyer(40%) in partnership w/Diane Dwyer -Bolinger self directed IRA, LLC (60%)",Golf,Paying
 ,119,355 N Red Ledges Boulevard,0.649999976,40.5121601,-111.3675066,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100687,,Humberto Uribe Morelli,Golf,Paying
-,12,150 N Haystack Mountain Drive,0.5,40.5093989,-111.387442,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100123,,Jim and Melissa Markey,Lifestyle,Paying
+,12,150 N Haystack Mountain Drive,0.5,40.5103952,-111.3893371,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100123,,Jim and Melissa Markey,Lifestyle,Paying
 ,120,311 N Red Ledges Boulevard,0.460000008,40.511991,-111.3679465,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100723,,Tanner and Heidi Ainge,Golf,Paying
 ,121,295 N Red Ledges Boulevard,0.400000006,40.51201,-111.36835,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100223,waived golf per ongoing agreement w/ tony,Steve and Michelle Campbell Family Trust,Golf,Waived
 ,122,271 N Red Ledges Boulevard,0.550000012,40.5118551,-111.3686585,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300451,,Jeffrey and Karen Denny,Lifestyle,Paying
 ,123,330 N Red Ledges Boulevard,0.330000013,40.5117602,-111.3673859,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100028,,Terri Norma Jex Revocable Trust,Golf,Paying
-,124,310 N Red Ledges Boulevard,0.330000013,40.5114819,-111.367451,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100905,,Kaveh & Lida Soofer,Golf,Paying
+,124,310 N Red Ledges Boulevard,0.330000013,40.5114819,-111.367451,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100044,,Dennis Levine and Elke Levine,Golf,Paying
 ,125,304 N Red Ledges Boulevard,0.360000014,40.5113071,-111.3678009,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200010,upgrade from Life,Mark and Faye Zamarin,Golf Park,Paying
 ,126,280 N Red Ledges Boulevard,0.460000008,40.5113029,-111.3681835,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100702,,Pat Whitworth and Lisa Zindel,Golf,Paying
 ,127,205 N Ibapah Peak Drive,0.970000029,40.5109956,-111.3689356,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100011,,Don and Brenda Metzger,Golf,Paying
 ,128,209 N Ibapah Peak Drive,1.139999986,40.5106786,-111.3687221,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100009,,Kim and Sue Clark,Golf,Paying
 ,129,223 N Ibapah Peak Drive,1.289999962,40.509886,-111.3690079,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100139,,Craig Christensen,Golf,Paying
-,13,158 N Haystack Mountain Drive,0.540000021,40.50974123,-111.3878388,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300400,,"Transition Properties, L.P.",Lifestyle,Paying
+,13,158 N Haystack Mountain Drive,0.540000021,40.5103952,-111.3893371,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300400,,"Transition Properties, L.P.",Lifestyle,Paying
 ,130,229 N Ibapah Peak Drive,0.970000029,40.5098378,-111.3682056,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300014,,Richard Tempero,Lifestyle,Paying
 ,131,235 N Ibapah Peak Drive,0.899999976,40.5095827,-111.3676576,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100106,Membership swap Lot 116 (ID 753),Eugene Batchelder,Lifestyle,Paying
 ,132,241 N Ibapah Peak Drive,1.00999999,40.5097895,-111.3666533,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300354,,Ibapah LLC,Lifestyle,Paying
@@ -44,10 +44,10 @@
 ,137,220 N Ibapah Peak Drive,1.100000024,40.5092737,-111.3695758,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100114,,Cathy Lengeling,Golf,Paying
 ,138,224 N Ibapah Peak Drive,1.25999999,40.5090851,-111.3689603,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300172,2018,Tait and Angela Eyre,Lifestyle,Paying
 ,139,228 N Ibapah Peak Drive,1.230000019,40.5091009,-111.36843,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100242,,John and Melissa Smith,Golf,Paying
-,14,157 N Haystack Mountain Drive,0.540000021,40.50933014,-111.3882558,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300235,,Janet and Glenn Colley,Lifestyle,Paying
+,14,157 N Haystack Mountain Drive,0.540000021,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300235,,Janet and Glenn Colley,Lifestyle,Paying
 ,140,234 N Ibapah Peak Drive,1.379999995,40.5090619,-111.3675264,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,200026,,Jennifer Lemaster and Scott Bolz,Golf Park,Paying
 ,141,240 N Ibapah Peak Drive,1.480000019,40.5091814,-111.3669524,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300407,,Josh and Kiera McLane,Lifestyle,Paying
-,142,3050 E Corral Peak Circle,1.330000043,40.50934359,-111.3658486,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100449,,Robert and Lauren Hammerberg,Golf,Paying
+,142,3050 E Corral Peak Circle,1.330000043,40.5088134,-111.3653873,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100449,,Robert and Lauren Hammerberg,Golf,Paying
 ,143,3088 E Corral Peak Circle,1.139999986,40.5087547,-111.3657128,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100577,,The Peartree Family Trust,Golf,Paying
 ,144,3090 E Corral Peak Circle,1,40.5086692,-111.3653229,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100590,,Jonathan and Carrie Upham,Golf,Paying
 ,145,3097 E Corral Peak Circle,1.24000001,40.5085148,-111.3649444,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,300423,,"Salt City Construction, LLC",Golf Park,Paying
@@ -55,13 +55,13 @@
 ,147,3057 E Corral Peak Circle,1.059999943,40.5094652,-111.3652279,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100564,,Matthew Taylor,Golf,Paying
 ,148,3035 E Corral Peak Circle,1.429999948,40.5097565,-111.3653454,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300064,,Dagmar Jewkes,Lifestyle,Paying
 ,149,280 N Ibapah Peak Drive,0.839999974,40.51092,-111.3652809,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100625,,Primos Development LLC,Golf,Paying
-,15,165 N Haystack Mountain Drive,0.50999999,40.50955199,-111.38867,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300415,,David and Jill Nystul,Lifestyle,Paying
+,15,165 N Haystack Mountain Drive,0.50999999,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300415,,David and Jill Nystul,Lifestyle,Paying
 ,150,292 N Ibapah Peak Drive,0.810000002,40.5110849,-111.3646317,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100625,,Primos Development LLC,Golf,Paying
 ,151,304 N Ibapah Peak Drive,0.810000002,40.510811,-111.364025,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100633,,"Ibapah, LLC",Golf,Paying
 ,152,312 N Ibapah Peak Drive,1,40.5110132,-111.3634501,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100591,,Tressa and Peter Meenderinck,No Membership,Combined
 ,153,3226 E Horseshoe Canyon Circle,0.930000007,40.511008,-111.3627645,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100591,,Peter and Tressa Meenderinck,Golf,Paying
 ,154,3290 E Horseshoe Canyon Circle,0.75,40.510549,-111.362139,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,300282,,Laura Bowlby Revocable Trust,Lifestyle,Paying
-,155,3330 E Horseshoe Canyon Circle,0.75999999,40.5104657,-111.3615684,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100457,,Stephen Bradley Kitchen,Golf,Paying
+,155,3330 E Horseshoe Canyon Circle,0.75999999,34.1149775,-118.3780159,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100457,,Stephen Bradley Kitchen,Golf,Paying
 ,156,3336 E Horseshoe Canyon Circle,0.889999986,40.5101227,-111.3610249,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100540,2022,Chad and Kristi Dockter,Golf,Waived
 ,157,3340 E Horseshoe Canyon Circle,0.75999999,40.5104805,-111.3608835,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,200001,,"Jeffrey A. Weiss Living Trust, Jeffrey A. Weiss Trustee",Golf Park,Paying
 ,158,3335 E Horseshoe Canyon Circle,1.330000043,40.510954,-111.3601569,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300089,,Karl and Kay Malone,Lifestyle,Paying
@@ -74,7 +74,7 @@
 ,164,444 N Ibapah Peak Drive,0.75,40.5130508,-111.3626444,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300106,,Gary and Becky Jewkes,Lifestyle,Paying
 ,165,466 N Ibapah Peak Drive,0.959999979,40.5131442,-111.3630335,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100433,,Richard and Jody Holland,Golf,Paying
 ,166,3220 E Horsehead Peak Court,0.839999974,40.5138157,-111.3632796,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100762,,David and Jean Speer Living Trust,Golf,Paying
-,167,3246 E Horsehead Peak Court,0.829999983,40.5136487,-111.3624907,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100433,,Richard and Jody Holland,No Membership,Combined
+,167,3246 E Horsehead Peak Court,0.829999983,40.514098,-111.363112,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100433,,Richard and Jody Holland,No Membership,Combined
 ,168,3250 E Horsehead Peak Court,0.910000026,40.5141358,-111.3627817,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100091,,A&A Family Trust,Golf,Paying
 ,169,3245 E Horsehead Peak Court,1.110000014,40.5140974,-111.3631197,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100091,,A&A Family Trust,No Membership,Combined
 ,17,215 N Haystack Mountain Drive,0.50999999,40.5099225,-111.3896749,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100303,,John Kent,Golf,Paying
@@ -86,23 +86,23 @@
 ,175,634 N Ibapah Peak Drive,0.910000026,40.515244,-111.3660017,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300359,,Matthew and Leslie Stanwood,Lifestyle,Paying
 ,176,650 N Ibapah Peak Drive,0.930000007,40.515597,-111.3661634,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100553,,Greg and Meg Lipstone,Golf,Paying
 ,177,657 N Ibapah Peak Drive,0.779999971,40.5154883,-111.3667483,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,200104,,Chris and Yiran Cleveland,Golf Park,Paying
-,178,637 N Ibapah Peak Drive,0.75999999,40.5150515,-111.3664086,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100908,,"Professional Park, LLC",Golf,Paying
-,179,623 N Ibapah Peak Drive,0.910000026,40.5147926,-111.3663401,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300556,,Steven J. Heller Living Trust and Annette Gladstone  ,Lifestyle,Paying
+,178,637 N Ibapah Peak Drive,0.75999999,40.5150515,-111.3664086,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100487,,Dean Ingram,Golf,Paying
+,179,623 N Ibapah Peak Drive,0.910000026,40.5147926,-111.3663401,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300207,Bought from Cox,Julie Rawle,Lifestyle,Paying
 ,18,255 N Haystack Mountain Drive,0.5,40.5104171,-111.3902181,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100178,,Timothy and Annabell Lang,Golf,Paying
 ,180,605 N Ibapah Peak Drive,1.080000043,40.5143767,-111.3662074,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100410,,Walter and Karen Smith,Golf,Paying
 ,181,595 N Ibapah Peak Drive,1.370000005,40.5141822,-111.3658056,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300332,,Adam and Emily Galland,Lifestyle,Paying
 ,182,583 N Ibapah Peak Drive,1.440000057,40.5139244,-111.3655561,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100007,,Chinh and Haphuong Chu,Golf,Paying
 ,183,567 N Ibapah Peak Drive,0.74000001,40.513523,-111.365061,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300061,,Timothy Pugmire,Lifestyle,Paying
-,184,551 N Ibapah Peak Drive,0.730000019,40.5136195,-111.3645112,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300381,,Charles Brenner and Judith Worley,Lifestyle,Paying
+,184,551  Ibapah Peak Drive,0.730000019,40.5136195,-111.3645112,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300381,,Charles Brenner and Judith Worley,Lifestyle,Paying
 ,185,515 N Ibapah Peak Drive,0.75999999,40.5134852,-111.3638631,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,200008,,George and Rosemary Bennett,Lifestyle,Paying
-,186,3155 E Horse Mountain Circle or 457 N Ibapah Peak Drive,0.860000014,40.5128989,-111.3635409,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300452,,Michael I. Rott,Lifestyle,Paying
+,186,3155 E Horse Mountain Circle or 457 N Ibapah Peak Drive,0.860000014,40.5128779,-111.3639392,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300452,,Michael I. Rott,Lifestyle,Paying
 ,187,3125 E Horse Mountain Circle,0.779999971,40.5128882,-111.3641015,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300227,,John Ford,Lifestyle,Paying
 ,188,3101 E Horse Mountain Circle,0.790000021,40.5129212,-111.3647223,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100839,,EL & JE Pierce LLC,Golf,Paying
 ,189,3077 E Horse Mountain Circle,0.819999993,40.512889,-111.365489,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100564,,Matthew Taylor,Lifestyle,Paying
 ,19,285 N Haystack Mountain Drive,0.610000014,40.5107654,-111.3904146,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300505,,Michael and Patricia Dorey,Lifestyle,Paying
 ,190,3055 E Horse Mountain Circle,1.120000005,40.5130412,-111.3660015,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100012,,John and Joanne O'Brien,Golf,Paying
 ,191,3050 E Horse Mountain Circle,1.190000057,40.5125879,-111.3664756,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300022,,Rhonda Taubin,Lifestyle,Paying
-,192,3052 E Horse Mountain Circle,1.049999952,40.5123397,-111.3661705,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100904,,Terri Wright,Golf,Paying
+,192,3052 E Horse Mountain Circle,1.049999952,40.5123397,-111.3661705,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300227,Downgrade 12.31.18,William O'Brien,Lifestyle,Paying
 ,193,3060 E Horse Mountain Circle,0.800000012,40.5121296,-111.3655963,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100318,,Paul Leslie,Golf,Paying
 ,194,3090 E Horse Mountain Circle,0.810000002,40.5123141,-111.3650319,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100867,,Starr Family Trust,Golf,Paying
 ,195,3120 E Horse Mountain Circle,0.779999971,40.5124311,-111.3644533,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300342,,Lauren Wright and Daniel Lee,Lifestyle,Paying
@@ -110,14 +110,14 @@
 ,197,3166 E Horse Mountain Circle,0.769999981,40.5124397,-111.3633805,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300442,,Nathan Lord,Lifestyle,Paying
 ,198,315 N Ibapah Peak Drive or 347 N Ibapah Peak Drive,0.769999981,40.51149585,-111.3633513,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,300402,,Cameron Cox,Lifestyle,Paying
 ,199,307 N Ibapah Peak Drive,0.800000012,40.5112318,-111.3639217,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,100506,,Nikki Wallace,Golf,Paying
-,2,113 N Haystack Mountain Drive,0.50999999,40.50817874,-111.3852974,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300551,,Michael LaMena and Michele McQuillan,Lifestyle,Paying
+,2,113 N Haystack Mountain Drive,0.50999999,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300551,,Michael LaMena and Michele McQuillan,Lifestyle,Paying
 ,20,230 N Haystack Mountain Drive,0.519999981,40.5103952,-111.3893371,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,100644,,The Alisa B Broadbent Trust Trustee,Golf,Paying
 ,200,295 N Ibapah Peak Drive,0.790000021,40.5113434,-111.3645116,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,200029,,Jordan Larkin,Golf Park,Paying
 ,200,295 N Ibapah Peak Drive,0.790000021,40.5113434,-111.3645116,Success,TRUE,TRUE,(CLL) Custom Lot Large,Original Release,300418,,Jordan Larkin,Golf,Trade-In
 ,201,289 N Ibapah Peak Drive,0.779999971,40.5113296,-111.3649676,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300446,,Jared and Janica Horner,Lifestyle,Paying
 ,202,283 N Ibapah Peak Drive,1,40.5115079,-111.3655805,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300343,,Christopher Kaltenbach and Jane McCann,Lifestyle,Paying
-,203,141 N Haystack Mountain Drive,0.649999976,40.50970084,-111.3891939,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300462,,Benjamin Fogg,Lifestyle,Paying
-,204,149 N Haystack Mountain Drive,0.569999993,40.50969976,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300477,,Brian and Sabrina McClain,Lifestyle,Paying
+,203,141 N Haystack Mountain Drive,0.649999976,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300462,,Benjamin Fogg,Lifestyle,Paying
+,204,149 N Haystack Mountain Drive,0.569999993,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300477,,Brian and Sabrina McClain,Lifestyle,Paying
 ,205,725 N Red Mountain Court,0.340000004,40.5161438,-111.3711725,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Red Mountain Court,300496,,"Wasatch Investment Group, LLC",Lifestyle,Paying
 ,206,693 N Red Mountain Court,0.340000004,40.5159731,-111.3715262,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Red Mountain Court,100841,,Sheridan Dixon,Golf,Paying
 ,207,669 N Red Mountain Court,0.330000013,40.515721,-111.371673,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Red Mountain Court,100682,,Justin and Leticia Gonzalez,Golf,Paying
@@ -207,64 +207,64 @@
 ,283,976 N Chimney Rock Road,0.430000007,40.5191851,-111.3820641,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100699,,Kevin Lockhart and Robin White,Golf,Paying
 ,284,990 N Chimney Rock Road,0.540000021,40.51965,-111.3819,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100874,,Eddie Joe and Ann Marie Edmondson,Golf,Paying
 ,285,1005 N Chimney Rock Road,0.439999998,40.5196387,-111.3824256,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100493,,Mary and Theodore Williams Trust,Golf,Paying
-,286,981 N Chimney Rock Road,0.400000006,40.5193016,-111.3824771,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,700003,,Mitchel and Annica Burns,No Membership,Combined
 ,286,981 N Chimney Rock Road,0.400000006,40.5193016,-111.3824771,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100493,,Mary and Theodore Williams Trust,No Membership,Combined
+,286,981 N Chimney Rock Road,0.400000006,40.5193016,-111.3824771,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,700003,,Mitchel and Annica Burns,No Membership,Combined
 ,287,955 N Chimney Rock Road,0.400000006,40.5190691,-111.3827359,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,700003,,Mitchel and Annica Burns,Golf,Employee
 ,288,607 N Haystack Mountain Drive,0.289999992,40.514921,-111.3891385,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100360,upgrade to golf,Dennis and Celeste Wolfe,Golf,Paying
 ,289,615 N Haystack Mountain Drive,0.25999999,40.5150195,-111.3892088,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300444,,Eileen J Tiffany,Lifestyle,Paying
 ,29,530 N Haystack Mountain Drive,0.430000007,40.5138305,-111.3884369,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300535,,Gregory and Renee Edwards,Lifestyle,Paying
-,290,619 N Haystack Mountain Drive,0.25999999,40.51506278,-111.3892441,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100812,,Bill and Christine Whitacre,Golf,Paying
-,291,623 N Haystack Mountain Drive,0.300000012,40.51547978,-111.389462,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100560,,Kevin J Smith,Golf,Paying
-,292,633 N Haystack Mountain Drive,0.25999999,40.51568806,-111.3895449,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100180,,The Gregson Family Trust,Golf,Paying
-,293,638 N Haystack Mountain Drive,0.25,40.51593519,-111.3895614,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100381,Bought from Adair/Clark,Christine M Newberry Living Family Trust,Golf,Paying
-,294,645 N Haystack Mountain Drive,0.25999999,40.51615757,-111.3895647,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300338,upgrade from L to GP,Kerry Murphy Damas,Golf Park,Paying
-,295,655 N Haystack Mountain Drive,0.25,40.51642835,-111.3895991,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200119,,Elliot and Aileen Pat Schutzer,Golf Park,Paying
-,296,661 N Haystack Mountain Drive,0.25999999,40.51664415,-111.389551,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Mountain View,200028,,Jacob Hanneman and McKay Johnston,Golf Park,Paying
-,296,661 N Haystack Mountain Drive,0.25999999,40.51664415,-111.389551,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Mountain View,100641,,Jacob Hanneman and McKay Johnston,Golf,Trade-In
-,297,671 N Haystack Mountain Drive,0.340000004,40.51689355,-111.3894863,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100552,,Robert and Kathie Schrieber,Golf,Paying
-,3,119 N Haystack Mountain Drive,0.519999981,40.50821199,-111.385825,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100070,,Ron & Shelia Hulme,Golf,Paying
+,290,619 N Haystack Mountain Drive,0.25999999,40.5150683,-111.3892437,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100812,,Bill and Christine Whitacre,Golf,Paying
+,291,623 N Haystack Mountain Drive,0.300000012,40.5152983,-111.3888424,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100560,,Kevin J Smith,Golf,Paying
+,292,633 N Haystack Mountain Drive,0.25999999,40.5155596,-111.3891157,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100180,,The Gregson Family Trust,Golf,Paying
+,293,638 N Haystack Mountain Drive,0.25,40.51556,-111.3891162,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100381,Bought from Adair/Clark,Christine M Newberry Living Family Trust,Golf,Paying
+,294,645 N Haystack Mountain Drive,0.25999999,40.5155173,-111.3882681,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300338,upgrade from L to GP,Kerry Murphy Damas,Golf Park,Paying
+,295,655 N Haystack Mountain Drive,0.25,40.5152987,-111.3888427,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200119,,Elliot and Aileen Pat Schutzer,Golf Park,Paying
+,296,661 N Haystack Mountain Drive,0.25999999,40.5153076,-111.3888491,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Mountain View,100641,,Jacob Hanneman and McKay Johnston,Golf,Trade-In
+,296,661 N Haystack Mountain Drive,0.25999999,40.5153076,-111.3888491,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Mountain View,200028,,Jacob Hanneman and McKay Johnston,Golf Park,Paying
+,297,671 North Haystack Mountain Drive,0.340000004,40.5168442,-111.3893325,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100552,,Robert and Kathie Schrieber,Golf,Paying
+,3,119 N Haystack Mountain Drive,0.519999981,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100070,,Ron & Shelia Hulme,Golf,Paying
 ,30,550 N Haystack Mountain Drive,0.409999996,40.5141453,-111.3884015,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300418,,I-15 Investments,Lifestyle,Trade-In
 ,30,550 N Haystack Mountain Drive,0.409999996,40.5141453,-111.3884015,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200030,,I-15 Investments,Golf Park,Paying
-,308,695 N Haystack Mountain Drive,0.109999999,40.5173709,-111.3885642,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,200036,,Andrea J. Bear Trust,Golf Park,Paying
-,309,701 N Haystack Mountain Drive,0.109999999,40.51753721,-111.3882046,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,200025,,Jeffrey and Lori Skeldon,Golf Park,Paying
+,308,695 North Haystack Mountain Drive,0.109999999,40.5173709,-111.3885642,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,200036,,Andrea J. Bear Trust,Golf Park,Paying
+,309,701 North Haystack Mountain Drive,0.109999999,40.5158448,-111.3885908,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,200025,,Jeffrey and Lori Skeldon,Golf Park,Paying
 ,31,570 N Haystack Mountain Drive,0.419999987,40.5143886,-111.3884192,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100157,,Contango Capital,Golf,Paying
-,310,709 N Haystack Mountain Drive,0.109999999,40.51753721,-111.3878612,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,,,,,
-,311,717 N Haystack Mountain Drive,0.109999999,40.517405,-111.387563,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,200041,,Peter E Cole,Golf Park,Paying
-,32,431 N Haystack Mountain Drive,0.600000024,40.51279044,-111.3895071,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300387,,Encore Development LLC,Lifestyle,Trade-In
-,32,431 N Haystack Mountain Drive,0.600000024,40.51279044,-111.3895071,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200029,,Encore Development LLC,Golf Park,Paying
-,320,782 N Haystack Mountain Drive,0.370000005,40.5180533,-111.3853853,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300222,,The Eyler Family Trust,Lifestyle,Paying
-,321,772 N Haystack Mountain Drive,0.300000012,40.5178291,-111.3856621,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100846,,Family Farmers DAO LLP,Golf,Paying
-,322,758 N Haystack Mountain Drive,0.300000012,40.5175885,-111.3858768,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300419,,Keith Tanabe,Lifestyle,Paying
-,323,746 N Haystack Mountain Drive,0.330000013,40.5173712,-111.3861105,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100466,,Mark A and Diane T Hobbins Family Revocable Trus,Golf,Paying
-,324,738 N Haystack Mountain Drive,0.409999996,40.5171771,-111.3863354,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100660,,Craig and Linda Merrill,Golf,Paying
-,324,738 N Haystack Mountain Drive,0.409999996,40.5171771,-111.3863354,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100660,,Craig and Linda Merrill,Golf,Paying
-,325,1709 E Haystack Mountain Court,0.25999999,40.517043,-111.387137,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Mountain View,300522,,G&B Davis Family Trust,Lifestyle,Paying
-,326,1715 E Haystack Mountain Court,0.25,40.5168611,-111.3869564,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200033,,David Arnold,Golf Park,Paying
-,327,1717 E Haystack Mountain Court,0.239999995,40.5166066,-111.3867559,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,0,,Don and Kerry Smith,Golf,Paying
-,328,1718 E Haystack Mountain Court,0.239999995,40.5164621,-111.3869537,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200018,,Jeannemarie and Chris Woltman,Golf Park,Paying
-,329,1716 E Haystack Mountain Court,0.230000004,40.516465,-111.3872621,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100531,,Bruce M. Larson,Golf,Paying
-,33,465 N Haystack Mountain Drive,0.5,40.51355575,-111.3889356,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,0,Upgraded to Golf,David and Jean Rosenblum,Golf,Paying
-,330,1712 E Haystack Mountain Court,0.25,40.5166347,-111.3875272,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100197,Transfer 330->328,Joel Harris,Lifestyle,Paying
-,330,1712 E Haystack Mountain Court,0.25,40.5166347,-111.3875272,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300251,,Keiser Family Trust,Golf,Paying
-,331,1706 E Haystack Mountain Court or 716 N Mountain Drive,0.300000012,40.5168848,-111.3876713,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100538,,Allison Smoot and Jamie Johnston,Golf,Paying
-,332,706 N Haystack Mountain Drive,0.25999999,40.51697267,-111.3879249,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300534,,The Sharon Taylor Revocable Living Trust,Lifestyle,Paying
-,333,696 N Haystack Mountain Drive,0.25999999,40.51695636,-111.3882521,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300294,,Gerald Duane and Sheila Smallwood Markham,Lifestyle,Paying
-,334,684 N Haystack Mountain Drive,0.25999999,40.51689926,-111.3886062,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100737,,Peter and Julie Wheelan,Golf,Paying
-,335,674 N Haystack Mountain Drive,0.270000011,40.51671983,-111.3887886,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100546,,Michael and Lindsay Egan,Golf,Paying
-,336,658 N Haystack Mountain Drive,0.270000011,40.5164629,-111.3889924,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100546,,Michael and Lindsay Egan,No Membership,Combined
-,337,648 N Haystack Mountain Drive,0.25,40.51623453,-111.3889978,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300257,,Christopher Lucas,Lifestyle,Paying
-,338,642 N Haystack Mountain Drive,0.25,40.51598168,-111.3890031,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300273,,Curtis and Diane Reese,Lifestyle,Paying
-,339,626 N Haystack Mountain Drive,0.270000011,40.51572883,-111.388869,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200087,,Ryan Lindsey Cooley and Kathleen Ann Kroll,Golf Park,Paying
+,310,709 North Haystack Mountain Drive,0.109999999,40.5155601,-111.3891163,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,,,,,
+,311,717 North Haystack Mountain Drive,0.109999999,40.517405,-111.387563,Success,TRUE,TRUE,(BFSSFCC2) Mtn View Village product,Mountain View Village,200041,,Peter E Cole,Golf Park,Paying
+,32,431 N Haystack Mountain Drive,0.600000024,40.5136596,-111.3888765,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300387,,Encore Development LLC,Lifestyle,Trade-In
+,32,431 N Haystack Mountain Drive,0.600000024,40.5136596,-111.3888765,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200029,,Encore Development LLC,Golf Park,Paying
+,320,782 North Haystack Mountain Drive,0.370000005,40.5180533,-111.3853853,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300222,,The Eyler Family Trust,Lifestyle,Paying
+,321,772 North Haystack Mountain Drive,0.300000012,40.5178291,-111.3856621,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100846,,Family Farmers DAO LLP,Golf,Paying
+,322,758 North Haystack Mountain Drive,0.300000012,40.5175885,-111.3858768,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300419,,Keith Tanabe,Lifestyle,Paying
+,323,746 North Haystack Mountain Drive,0.330000013,40.5173712,-111.3861105,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100466,,Mark A and Diane T Hobbins Family Revocable Trus,Golf,Paying
+,324,738 North Haystack Mountain Drive,0.409999996,40.5171771,-111.3863354,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100660,,Craig and Linda Merrill,Golf,Paying
+,324,738 North Haystack Mountain Drive,0.409999996,40.5171771,-111.3863354,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100660,,Craig and Linda Merrill,Golf,Paying
+,325,1709 East Haystack Mountain Court,0.25999999,40.517043,-111.387137,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Mountain View,300522,,G&B Davis Family Trust,Lifestyle,Paying
+,326,1715 East Haystack Mountain Court,0.25,40.5168611,-111.3869564,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200033,,David Arnold,Golf Park,Paying
+,327,1717 East Haystack Mountain Court,0.239999995,40.5166066,-111.3867559,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,0,,Don and Kerry Smith,Golf,Paying
+,328,1718 East Haystack Mountain Court,0.239999995,40.5164621,-111.3869537,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200018,,Jeannemarie and Chris Woltman,Golf Park,Paying
+,329,1716 East Haystack Mountain Court,0.230000004,40.516465,-111.3872621,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100531,,Bruce M. Larson,Golf,Paying
+,33,465 N Haystack Mountain Drive,0.5,40.5137034,-111.38886,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,0,Upgraded to Golf,David and Jean Rosenblum,Golf,Paying
+,330,1712 East Haystack Mountain Court,0.25,40.5166347,-111.3875272,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300251,,Keiser Family Trust,Golf,Paying
+,330,1712 East Haystack Mountain Court,0.25,40.5166347,-111.3875272,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100197,Transfer 330->328,Joel Harris,Lifestyle,Paying
+,331,1706 East Haystack Mountain Court or 716 North Mountain Drive,0.300000012,40.5168848,-111.3876713,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100538,,Allison Smoot and Jamie Johnston,Golf,Paying
+,332,706 North Haystack Mountain Drive,0.25999999,40.5158675,-111.3886169,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300534,,The Sharon Taylor Revocable Living Trust,Lifestyle,Paying
+,333,696 North Haystack Mountain Drive,0.25999999,40.515822,-111.3885647,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300294,,Gerald Duane and Sheila Smallwood Markham,Lifestyle,Paying
+,334,684 North Haystack Mountain Drive,0.25999999,40.5157376,-111.388475,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100737,,Peter and Julie Wheelan,Golf,Paying
+,335,674 North Haystack Mountain Drive,0.270000011,40.515674,-111.3884097,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100546,,Michael and Lindsay Egan,Golf,Paying
+,336,658 N Haystack Mountain Drive,0.270000011,40.5153032,-111.3888459,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100546,,Michael and Lindsay Egan,No Membership,Combined
+,337,648 N Haystack Mountain Drive,0.25,40.5155218,-111.3882713,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300257,,Christopher Lucas,Lifestyle,Paying
+,338,642 N Haystack Mountain Drive,0.25,40.5155128,-111.3882649,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300273,,Curtis and Diane Reese,Lifestyle,Paying
+,339,626 N Haystack Mountain Drive,0.270000011,40.5151033,-111.3892691,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,200087,,Ryan Lindsey Cooley and Kathleen Ann Kroll,Golf Park,Paying
 ,34,1610 E Mount Nebo Circle,0.560000002,40.5135942,-111.3889755,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300135,,Paul Joseph Meyers,Lifestyle,Paying
-,340,618 N Haystack Mountain Drive,0.25,40.51553308,-111.3886866,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100203,,Brandon McKee,Golf,Paying
-,341,606 N Haystack Mountain Drive,0.25,40.51535364,-111.3884667,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100358,Bought from Purehaven Homes (Harr),The Jay and Tina Trust,Golf,Paying
-,342,604 N Haystack Mountain Drive,0.239999995,40.51506817,-111.3883004,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300393,,Brandon and Michelle Burbidge,Lifestyle,Paying
+,340,618 N Haystack Mountain Drive,0.25,40.515056,-111.3892349,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100203,,Brandon McKee,Golf,Paying
+,341,606 N Haystack Mountain Drive,0.25,40.5154328,-111.3882076,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,100358,Bought from Purehaven Homes (Harr),The Jay and Tina Trust,Golf,Paying
+,342,604 N Haystack Mountain Drive,0.239999995,40.5152041,-111.3880519,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Mountain View,300393,,Brandon and Michelle Burbidge,Lifestyle,Paying
 ,343,1232 N Chimney Rock Road or 1998 E Notch Mountain Circle,0.560000002,40.5225375,-111.3826867,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Overlook,300479,,Lundy and Mary Wright,Lifestyle,Paying
 ,344,1282 N Chimney Rock Road or 2001 E Notch Mountain Circle,0.550000012,40.5231468,-111.3823359,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Overlook,300254,,Charles R Henry,Lifestyle,Paying
 ,345,2025 E Notch Mountain Circle,0.519999981,40.522993,-111.381835,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100631,,Jeffrey and Anna Weidell,Golf,Paying
 ,346,2051 E Notch Mountain Circle,0.600000024,40.5227894,-111.381344,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100637,,Norman and Linda McLeod,Golf,Paying
 ,347,2075 E Notch Mountain Circle,0.589999974,40.5229525,-111.3806946,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100728,,Olen and Belle Petznick,Golf,Paying
-,348,2093 E Notch Mountain Circle,0.670000017,40.5227297,-111.3803776,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,300555,,David & Cathleen Schaede,Lifestyle,Paying
+,348,2093 E Notch Mountain Circle,0.670000017,40.5227297,-111.3803776,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,300346,,Mike and Jill Torres,Lifestyle,Paying
 ,349,2109 E Notch Mountain Circle,0.870000005,40.5226603,-111.3797005,Success,FALSE,TRUE,(CLL) Custom Lot Large,Overlook,100467,,Victor and Lisa Ingalls,Golf,Paying
 ,35,1590 E Mount Nebo Circle,0.540000021,40.5137498,-111.3893297,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300360,,Matthew & Kayleen Stroud,Lifestyle,Paying
 ,350,2125 E Notch Mountain Circle,0.850000024,40.5222121,-111.3797082,Success,FALSE,TRUE,(CLL) Custom Lot Large,Overlook,300520,,Eric and Lisa Ranum,Lifestyle,Paying
@@ -278,26 +278,26 @@
 ,358,2118 E Notch Mountain Circle,0.629999995,40.5221619,-111.3802285,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Overlook,100614,,Marilyn Kalbach,Golf,Paying
 ,359,2068 E Notch Mountain Circle,0.75999999,40.5223833,-111.3809313,Success,FALSE,TRUE,(CLL) Custom Lot Large,Overlook,100198,,Michael and Katherine Bradshaw,Golf,Paying
 ,36,1582 E Mount Nebo Circle,0.519999981,40.5140367,-111.3893601,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100749,,Wade Morden,Golf,Paying
-,360,2044 E Notch Mountain Circle,0.540000021,40.522432,-111.3815,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,300528,,"BK Red Ledges, LLC",Lifestyle,Paying
+,360,2044 E Notch Mountain Circle,0.540000021,40.522432,-111.3815,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,300339,,"BK Red Ledges, LLC",Lifestyle,Paying
 ,361,2022 E Notch Mountain Circle,0.519999981,40.5226825,-111.3820095,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100580,,D. Lee and Susan McCreary,Golf,Paying
 ,362,1352 N Chimney Rock Road or 2056 E Oquirrh Moutain Circle,0.550000012,40.5235384,-111.3822645,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Overlook,100840,,Steven J. Baum Revocable Living Trust,Golf,Paying
 ,363,2066 E Oquirrh Mountain Circle,0.479999989,40.5235083,-111.3814302,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Overlook,300327,,William Freeman and Audrey Israel,Lifestyle,Paying
 ,364,2069 E Oquirrh Mountain Circle,1.570000052,40.523732,-111.381189,Success,FALSE,TRUE,(CLL) Custom Lot Large,Overlook,100851,,Cari and William Welliver,Golf,Paying
 ,365,2067 E Oquirrh Mountain Circle,0.5,40.524134,-111.380999,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100504,,John Joseph Roddy IV and Laurene Roddy,Golf,Paying
 ,365,2067 E Oquirrh Mountain Circle,0.5,40.524134,-111.380999,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100504,,John Joseph Roddy IV and Laurene Roddy,Golf,Paying
-,366,2063 E Oquirrh Mountain Circle,0.639999986,40.52414032,-111.3809556,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100504,,John Joseph Roddy IV and Laurene Roddy,No Membership,Combined
-,366,2063 E Oquirrh Mountain Circle,0.639999986,40.52414032,-111.3809556,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100504,,John Joseph Roddy IV and Laurene Roddy,No Membership,Combined
+,366,2063 E Oquirrh Mountain Circle,0.639999986,40.5237578,-111.3814126,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100504,,John Joseph Roddy IV and Laurene Roddy,No Membership,Combined
+,366,2063 E Oquirrh Mountain Circle,0.639999986,40.5237578,-111.3814126,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Overlook,100504,,John Joseph Roddy IV and Laurene Roddy,No Membership,Combined
 ,367,2083 E Upper Lookout Knoll Court,1.779999971,40.52878658,-111.3817658,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,200065,,David and Laura McNeill,Golf Park,Paying
 ,368,2025 E Upper Lookout Knoll Court,2.279999971,40.52818627,-111.3824949,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,901040,,Chris Beardsley,Golf Park,Inactive
 ,369,1977 E Upper Lookout Knoll Court,5.840000153,40.52778618,-111.3831202,Success,FALSE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,100868,,"Mastermind Marketing, Inc & Production Soup",Golf,Paying
 ,37,1580 E Mount Nebo Circle,0.5,40.514403,-111.389234,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200113,,Mark J. Helow Living Trust,Golf Park,Paying
-,370,1961 E Upper Lookout Knoll Circle,4.789999962,40.527902,-111.3842852,Success,FALSE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300260,,David and Robyn Higbee,Lifestyle,Paying
+,370,1961 E Upper Lookout Knoll Circle,4.789999962,33.2294332,-87.590753,Success,FALSE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300260,,David and Robyn Higbee,Lifestyle,Paying
 ,371,1964 E Upper Lookout Knoll Court,1.120000005,40.52730555,-111.3839097,Success,FALSE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300544,,Marion Eugene Williams III and Sonya E. Medina,Lifestyle,Paying
 ,372,1968 E Upper Lookout Knoll Court,1,40.52719583,-111.3833323,Success,FALSE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300261,,"Sandcastle Enterprises, LLC",Lifestyle,Inactive
 ,373,1994 E Upper Lookout Knoll Court,1.970000029,40.52763471,-111.3825745,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300458,,"Bradley Weekes Paxton, SES 026 LLC",Lifestyle,Paying
-,374,1331 N Oquirrh Mountain Drive,0.5,40.52479039,-111.3828399,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Summit Knoll,100892,Inactive until home completed or membership activated,Stephen and Gillian Dixon,Golf,Inactive
+,374,1331 N Oquirrh Mountain Drive,0.5,40.5242277,-111.3819601,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Summit Knoll,100892,Inactive until home completed or membership activated,Stephen and Gillian Dixon,Golf,Inactive
 ,375,1376 N Lower Lookout Knoll Court,0.519999981,40.5252886,-111.3828721,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Summit Knoll,300344,,Moersch Family Trust,Lifestyle,Paying
-,376,1418 N Lower Lookout Knoll Court,1.710000038,40.5257728,-111.3833828,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300274,,Jennifer Lentine,Lifestyle,Paying
+,376,1418 N Lower Lookout Knoll Court,1.710000038,40.5257728,-111.3833828,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,300465,,Gordon Todd and Rachael Bishop,Lifestyle,Paying
 ,377,1472 N Lower Lookout Knoll Court,1.850000024,40.5259899,-111.3842041,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,100513,,John and Christina Lund,Golf,Paying
 ,378,1534 N Lower Lookout Knoll Court,2.619999886,40.5270551,-111.3850571,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,100511,,Sadler and Tracie Nelson,Golf,Paying
 ,379,1539 N Lower Lookout Knoll Court,1.840000033,40.5265885,-111.3855055,Success,FALSE,TRUE,(CLL) Custom Lot Large,DR Summit Knoll,100463,,Colin Stauffer,Golf,Paying
@@ -327,16 +327,16 @@
 ,3K17,1743 E Thompson Peak Circle,0.109999999,40.5182684,-111.3867087,Success,TRUE,FALSE,(BFSSFCC2) Mtn View Village product,DR Mountain View Village (was called 2J Infill),100827,,Tren and Brandie Grant,Golf,Paying
 ,3K18,1747 E Thompson Peak Circle,0.109999999,40.5182436,-111.3863503,Success,TRUE,FALSE,(BFSSFCC2) Mtn View Village product,DR Mountain View Village (was called 2J Infill),,,,,
 ,3K19,1759 E Thompson Peak Circle,0.109999999,40.517955,-111.386277,Success,TRUE,FALSE,(BFSSFCC2) Mtn View Village product,DR Mountain View Village (was called 2J Infill),200084,,The Porter Family Trust,Golf Park,Paying
-,4,127 N Haystack Mountain Drive,0.529999971,40.50829634,-111.3863386,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100051,,Phillip Friedman,Golf,Paying
+,4,127 N Haystack Mountain Drive,0.529999971,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100051,,Phillip Friedman,Golf,Paying
 ,40,1070 N Chimney Rock Road,0.600000024,40.5205515,-111.3823236,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100876,,The Grooms Family Trust,Golf,Paying
-,400,663 N Explorer Peak Drive,0.829999983,40.51552463,-111.3754986,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,300432,,Ross and Molly Fryman,Lifestyle,Paying
-,401,685 N Explorer Peak Drive,1.470000029,40.51586788,-111.3758759,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,300293,,Jon Curtis and Adrianne Coleman,Lifestyle,Paying
+,400,663 North Explorer Peak Dr,0.829999983,40.5215993,-111.3752719,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,300432,,Ross and Molly Fryman,Lifestyle,Paying
+,401,685 North Explorer Peak Dr,1.470000029,40.5215993,-111.3752719,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,300293,,Jon Curtis and Adrianne Coleman,Lifestyle,Paying
 ,402,709 N Explorer Peak,1.149999976,40.5163913,-111.3751783,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100130,,Frank Bennack,Golf,Paying
-,403,753 N Explorer Peak,0.860000014,40.51690496,-111.3746873,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,200062,,Bill and Kathleen Hogenson,Golf Park,Paying
+,403,753 N Explorer Peak,0.860000014,40.516946,-111.3747401,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,200062,,Bill and Kathleen Hogenson,Golf Park,Paying
 ,404,795 N Explorer Peak,0.870000005,40.5173836,-111.3748673,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100753,,Jason and Marianne Perkins,Golf,Paying
-,405,819 N Explorer Peak,1.00999999,40.51806836,-111.3751761,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,200035,,William and Shirley Low Trust,Golf Park,Paying
+,405,819 N Explorer Peak,1.00999999,40.5215993,-111.3752719,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,200035,,William and Shirley Low Trust,Golf Park,Paying
 ,406,845 N Explorer Peak,1.159999967,40.5181408,-111.3751442,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100111,2027,Christopher Christensen,Golf,Waived
-,407,862 N Explorer Peak,0.899999976,40.51847944,-111.3745875,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100247,,Michael and Diann Harries,Golf,Paying
+,407,862 N Explorer Peak,0.899999976,40.5184877,-111.3745874,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100247,,Michael and Diann Harries,Golf,Paying
 ,408,836 N Explorer Peak,1,40.5180458,-111.3739882,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100143,,Steve Barnes,No Membership,Combined
 ,409,812 N Explorer Peak,1.139999986,40.5176867,-111.3743235,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100143,,Steve Barnes,Golf,Paying
 ,41,1196 N Chimney Rock Road,0.550000012,40.5221039,-111.3825941,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200009,Downgrade from Golf,Susan & Richard Hrabchak,Golf Park,Paying
@@ -352,7 +352,7 @@
 ,419,966 N Explorer Peak,0.879999995,40.5201701,-111.3750022,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100722,,John and Graziela Kaufman,Golf,Paying
 ,42,1191 N Chimney Rock Road,0.540000021,40.5220702,-111.3833594,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200092,,Elaine C. King,Lifestyle,Paying
 ,420,942 N Explorer Peak,0.970000029,40.5196062,-111.3750731,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100887,,Scott Edens or Assigns,Golf,Paying
-,421,914 N Explorer Peak,0.930000007,40.51938798,-111.3748006,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100549,,Angela and James Burleson,Golf,Paying
+,421,914 N Explorer Peak,0.930000007,40.5203874,-111.3752785,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100549,,Angela and James Burleson,Golf,Paying
 ,422,886 N Explorer Peak,0.899999976,40.5190154,-111.3746256,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100437,,Stacy D Swapp Living Trust,Golf,Paying
 ,423,1029 N Explorer Peak Drive,1.019999981,40.520553,-111.3757729,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100177,,Davis and Anissa Paddock,Golf,Paying
 ,424,1067 N Explorer Peak Drive,1,40.5208702,-111.3761063,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,300121,,Darrell and Lise Brown,Lifestyle,Paying
@@ -372,8 +372,8 @@
 ,437,1483 N Explorer Peak Drive or 1494 N Chimney Rock Road,0.930000007,40.5229557,-111.3734427,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100849,,Laura and John Hardin,Golf,Paying
 ,438,1505 N Explorer Peak Drive or 1512 N Chimney Rock Road,0.959999979,40.5229557,-111.3734427,Success,FALSE,TRUE,(CLL) Custom Lot Large,Wasatch Ridge,100297,,Peter Pilling,Golf,Paying
 ,439,1527 N Explorer Peak Drive or 1538 N Chimney Rock Road,0.730000019,40.5229557,-111.3734427,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Wasatch Ridge,100396,,Douglas and Christine Madsen,Golf,Paying
-,44,1235 N Chimney Rock Road,0.569999993,40.522731,-111.383343,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100189,swapped lot 325 golf w lot 44 lifestyle,The Kimberly D. Danley Trust,Lifestyle,Trade-In
 ,44,1235 N Chimney Rock Road,0.569999993,40.522731,-111.383343,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100189,swapped lot 325 golf w lot 44 lifestyle,The Kimberly D. Danley Trust,Golf,Paying
+,44,1235 N Chimney Rock Road,0.569999993,40.522731,-111.383343,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100189,swapped lot 325 golf w lot 44 lifestyle,The Kimberly D. Danley Trust,Lifestyle,Trade-In
 ,440,1553 N Explorer Peak Drive,0.419999987,40.5265467,-111.3799672,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Wasatch Ridge,100332,,The Morris Revocable Trust,Golf,Paying
 ,443,1452 N Chimney Rock Road,0.629999995,40.5250928,-111.381059,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Wasatch Ridge,300370,,Donald and Deborah Buckelew,Lifestyle,Paying
 ,444,1422 N Chimney Rock Road,0.50999999,40.5247832,-111.3811564,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Wasatch Ridge,100411,,Eric Anderson,Golf,Paying
@@ -412,7 +412,7 @@
 ,474,1408 N Gold Mountain Circle,0.639999986,40.5251367,-111.376803,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Summit Loop,300440,,LPL 1408 N Gold Mountain,Lifestyle,Paying
 ,475,1378 N Gold Mountain Circle,0.779999971,40.5247744,-111.3762136,Success,FALSE,TRUE,(CLL) Custom Lot Large,Summit Loop,300517,,Douglas and Milagro Andersen,Lifestyle,Paying
 ,476,1352 N Gold Mountain Circle,0.720000029,40.5243745,-111.3759083,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Summit Loop,200055,,Gregory and Elaine Coady,Golf Park,Paying
-,477,1316 N Gold Mountain Circle or 2477 E Boulder Top Way,0.75999999,40.5238952,-111.375489,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,300553,,Tisha & Dean Barberree,Lifestyle,Paying
+,477,1316 N Gold Mountain Circle or 2477 E Boulder Top Way,0.75999999,40.5238952,-111.375489,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,100678,,"San Rafael Holdings, LLC",Golf,Paying
 ,478,1397 N A1 Peak Drive,0.980000019,40.52475577,-111.37487,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,100615,,Thomas Freeman,Golf Park,Paying
 ,479,1433 N A1 Peak Drive,1.029999971,40.52542792,-111.3751889,Success,FALSE,TRUE,(CLL) Custom Lot Large,Summit Loop,100691,,Covington Family Trust,Golf,Paying
 ,48,1315 N Chimney Rock Road,0.589999974,40.5237638,-111.3827971,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300334,,Alan Kruglak,Lifestyle,Paying
@@ -422,13 +422,13 @@
 ,483,1380 N A1 Peak Drive,1.120000005,40.52488646,-111.3737699,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,100579,,Herman Mallory Caldwell and Tara Tinsley Caldwell,Golf,Paying
 ,483,1380 N A1 Peak Drive,1.120000005,40.52488646,-111.3737699,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,100442,,Herman Mallory Caldwell and Tara Tinsley Caldwell,Golf,Paying
 ,484,1400 N A1 Peak Drive,1.230000019,40.52526554,-111.3742047,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,300548,,Summit View LLC,Lifestyle,Paying
-,485,1426 N A1 Peak Drive,0.99000001,40.52553304,-111.374788,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,200070,Downgraded from Golf to Golf Park 2/5/24,Alkhas Family Trust,Golf Park,Paying
 ,485,1426 N A1 Peak Drive,0.99000001,40.52553304,-111.374788,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,100701,Downgraded from Golf to Golf Park 2/5/24,Alkhas Family Trust,Golf,Trade-In
+,485,1426 N A1 Peak Drive,0.99000001,40.52553304,-111.374788,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,200070,Downgraded from Golf to Golf Park 2/5/24,Alkhas Family Trust,Golf Park,Paying
 ,486,1450 N A1 Peak Drive,0.800000012,40.52585914,-111.3751922,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,200071,"waived 2024 prorated dues, no future waives",Mark and Jenny Duis,Golf Park,Paying
 ,487,1482 N A1 Peak Drive,0.709999979,40.52695792,-111.3756603,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Summit Hook,100476,,Rodrigo and Natalie Ballon,Golf,Paying
 ,488,1634 N A1 Peak Drive,0.649999976,40.52818617,-111.3765777,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Summit Loop,100269,,Jeffrey L. Myers,Golf,Paying
 ,489,1652 N A1 Peak Drive,0.699999988,40.52839674,-111.3761023,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Summit Loop,500005,,BMK Holdings LLC,Golf,Paying
-,49,1350 N Oquirrh Mountain Drive,0.74000001,40.52416033,-111.382406,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300138,,Larry Behrman and Cynthia Gonzales,Lifestyle,Paying
+,49,1350 N Oquirrh Mountain Drive,0.74000001,40.5236955,-111.3845196,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300138,,Larry Behrman and Cynthia Gonzales,Lifestyle,Paying
 ,490,1668 N A1 Peak Drive,0.620000005,40.52809459,-111.3757696,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Summit Loop,100211,2018,"Rodale of Utah, Inc.",Golf,Paying
 ,491,1579 N A1 Peak Drive,1.120000005,40.52741453,-111.3769903,Success,FALSE,TRUE,(CLL) Custom Lot Large,Summit Loop,100453,,Richard and Maria Erario,Golf,Paying
 ,492,1601 N A1 Peak Drive,1.480000019,40.52799502,-111.3770814,Success,FALSE,TRUE,(CLL) Custom Lot Large,Summit Loop,500005,2024,Richard Boland,Golf,Waived
@@ -439,7 +439,7 @@
 ,497,1659 N A1 Peak Drive,0.75999999,40.52840573,-111.3758941,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,200093,,Inadomi-Frassett Revocable Living Trust and Kristine Frassett,Golf Park,Paying
 ,498,1687 N A1 Peak Drive or 2464 E La Sal Peak Drive,0.75,40.52847955,-111.3750177,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,300039,swap 89 L w/ 498 GP,The Gingras Langehaug Trust,Lifestyle,Inactive
 ,499,2432 E La Sal Peak Drive,0.899999976,40.529163,-111.375749,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,200085,,"Anchor Trading, LLC",Golf Park,Paying
-,5,133 N Haystack Mountain Drive,0.529999971,40.5084283,-111.3868012,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100155,Upgrade for 2020,The Alex B. and Diane G. Gilbert Living Trust,Golf,Paying
+,5,133 N Haystack Mountain Drive,0.529999971,40.5097018,-111.3891944,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100155,Upgrade for 2020,The Alex B. and Diane G. Gilbert Living Trust,Golf,Paying
 ,50,1316 N Oquirrh Mountain Drive,0.879999995,40.5242489,-111.3832697,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100300,,Keith D. Musante,Golf,Paying
 ,500,2394 E La Sal Peak Drive,1.019999981,40.529561,-111.37632,Success,FALSE,TRUE,(CLL) Custom Lot Large,Summit Loop,100866,,Charles and Barbara Stark,Golf,Paying
 ,501,2364 E La Sal Peak Drive,1.230000019,40.5301806,-111.3766153,Success,FALSE,TRUE,(CLL) Custom Lot Large,Summit Loop,200105,,Marc and Melissa Christian,Golf Park,Paying
@@ -466,8 +466,8 @@
 ,520,1855 N Chimney Rock Road,0.970000029,40.5298284,-111.3804943,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,200044,,Nicholas Luekenga,Golf Park,Paying
 ,521,1771 N Chimney Rock Road,1.559999943,40.529184,-111.380481,Success,TRUE,TRUE,(CLL) Custom Lot Large,Summit Loop,100761,,Steven & Karen Tipp,Golf,Paying
 ,522,710 N Pinto Knoll Circle,0.939999998,40.5165768,-111.3660593,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100530,,Robert Kent Howell,Golf,Paying
-,523,680 N Pinto Knoll Circle,0.920000017,40.515992,-111.366118,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100553,,Greg and Meg Lipstone,No Membership,Combined
-,523,680 N Pinto Knoll Circle,0.920000017,40.515992,-111.366118,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100553,,Greg and Meg Lipstone,Lifestyle,Paying
+,523,680  Pinto Knoll Circle,0.920000017,40.515992,-111.366118,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100553,,Greg and Meg Lipstone,No Membership,Combined
+,523,680  Pinto Knoll Circle,0.920000017,40.515992,-111.366118,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100553,,Greg and Meg Lipstone,Lifestyle,Paying
 ,524,707 N Pinto Knoll Circle,0.939999998,40.5162239,-111.3668278,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100077,,Kevin DeMass,Golf,Paying
 ,525,741 N Pinto Knoll Circle,0.800000012,40.5165979,-111.3670239,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100464,,John and Kiersten McLean,Golf,Paying
 ,526,767 N Pinto Knoll Circle,1.120000005,40.5168752,-111.3674056,Success,FALSE,TRUE,(CLL) Custom Lot Large,Second Release,100862,,Julie and Christopher Cavanaugh,Lifestyle,Paying
@@ -552,7 +552,7 @@
 ,597,2577 E La Sal Peak Drive,2.049999952,40.529079,-111.373013,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,,,,,
 ,598,2605 E La Sal Peak Drive,1.5,40.528891,-111.372463,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,,,,,
 ,599,2627 E La Sal Peak Drive,1.440000057,40.5285151,-111.372078,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,,,,,
-,6,100 N Haystack Mountain Drive,0.50999999,40.5087305,-111.3845447,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100119,,Glen Overton,Golf,Paying
+,6,100 N Haystack Mountain Drive,0.50999999,40.5141987,-111.3883995,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100119,,Glen Overton,Golf,Paying
 ,60,1090 N Oquirrh Mountain Drive,0.75999999,40.5206874,-111.384504,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300243,,Diaa Nour,Lifestyle,Paying
 ,600,2653 E La Sal Peak Drive,1.929999948,40.528712,-111.371309,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,,,,,
 ,601,2677 E La Sal Peak Drive,2.210000038,40.527967,-111.37113,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,100699,,Kevin Lockhart and Robin White,No Membership,Combined
@@ -610,15 +610,15 @@
 ,649,1472 N Red Castle Circle,0.939999998,40.525305,-111.368355,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,100570,,Paul Anthony Marsh,Golf,Paying
 ,65,1111 N Oquirrh Mountain Drive,0.769999981,40.521129,-111.385408,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100192,2018,"LH Perry Investments, LLC",Golf,Paying
 ,650,1481 N Red Castle Circle,0.75,40.525408,-111.369144,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,100587,,Joseph Charles Howe Jr and Lara Christian Howe,Golf,Paying
-,651,1507 N Red Castle Circle,0.689999998,40.525772,-111.369537,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Crown Ridge,100907,,Raife Family Trust,Golf,Paying
+,651,1507 N Red Castle Circle,0.689999998,40.525772,-111.369537,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Crown Ridge,100593,,The Steven Siciliani 2012 Irrevocable Trust,Golf,Paying
 ,652,1531 N Red Castle Circle,0.699999988,40.526175,-111.370059,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Crown Ridge,100891,,Garriott Family Trust,Golf,Paying
 ,653,1545 N Red Castle Circle,0.899999976,40.5266229,-111.3700819,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Crown Ridge,100291,,Sean Cain,Golf,Paying
 ,654,2519 E La Sal Peak Drive,0.839999974,40.528534,-111.374131,Success,TRUE,TRUE,(CLM) Custom Lot Medium,DR Crown Ridge,100656,,David and Martha Hannah,Golf,Paying
 ,655,1311 N Granite Peak Way,0.050000001,32.4708221,-111.0110088,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,,,,,
 ,656,1307 N Granite Peak Way,0.050000001,39.6577546,-84.2659757,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,,,,,
 ,657,1303 N Granite Peak Way,0.050000001,39.6578423,-84.2660378,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,,,,,
-,658,1299 N Granite Peak Way,0.050000001,39.6579408,-84.2661276,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,300219,Swap 532 L w/ 658 G,"KP Properties of Utah, LLC",Lifestyle,Paying
 ,658,1299 N Granite Peak Way,0.050000001,39.6579408,-84.2661276,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,300219,,"KP Properties of Utah, LLC",Golf,Paying
+,658,1299 N Granite Peak Way,0.050000001,39.6579408,-84.2661276,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,300219,Swap 532 L w/ 658 G,"KP Properties of Utah, LLC",Lifestyle,Paying
 ,659,1295 N Granite Peak Way,0.050000001,39.6579915,-84.2661433,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,,,,,
 ,66,1131 N Oquirrh Mountain Drive,0.769999981,40.5214559,-111.3850805,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100183,,James Vicars,No Membership,Combined
 ,660,1261 N Granite Peak Way,0.050000001,39.658557,-84.2668613,Success,TRUE,FALSE,(BFSDetHD1) Detached Autocourt,DR Mountainside Interior Loop,,,,,
@@ -659,7 +659,7 @@
 ,692,1276 N Granite Peak Way,,39.6582223,-84.2666506,Success,TRUE,FALSE,(BFSSFCC) Club Cabin product,DR Mountainside Interior Loop,,,,,
 ,693,1292 N Granite Peak Way,,39.6578057,-84.2667444,Success,TRUE,FALSE,(BFSSFCC) Club Cabin product,DR Mountainside Interior Loop,,,,,
 ,694,1308 N Granite Peak Way,,39.6575162,-84.266539,Success,TRUE,FALSE,(BFSSFCC) Club Cabin product,DR Mountainside Interior Loop,,,,,
-,7,108 N Haystack Mountain Drive,0.50999999,40.50872675,-111.3850366,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200043,,Mark and Jolene Detillion,Golf Park,Paying
+,7,108 N Haystack Mountain Drive,0.50999999,40.5141987,-111.3883995,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,200043,,Mark and Jolene Detillion,Golf Park,Paying
 ,70,1207 N Oquirrh Mountain Drive,0.75,40.523142,-111.385437,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100873,,Marisa Paradiso,Golf,Paying
 ,707a,2492 E Red Knob Way,0.790000021,40.5149385,-111.3752721,Success,FALSE,TRUE,(CLM) Custom Lot Medium,3J replatted for 2 lots,100495,,The Rash Family Trust,Golf,Paying
 ,708,2458 E Red Knob Way,1.25999999,40.5149385,-111.3752721,Success,TRUE,TRUE,(CLM) Custom Lot Medium,3J replatted for 2 lots,200032,,William and Elisabeth Murphy,Golf Park,Paying
@@ -730,8 +730,8 @@
 ,767,2212 E Signal Peak Court,0.5,40.5097903,-111.3793759,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100220,,David and Deborah Roylance,Golf,Paying
 ,768,2220 E Signal Peak Court,0.550000012,40.5099801,-111.3788914,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100263,,Rob Phelps,Lifestyle,Paying
 ,769,2215 E Signal Peak Court,0.639999986,40.5103668,-111.3789544,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100199,,Mark Lords,Golf,Paying
-,77,2180 E Flat Top Mountain Drive,0.460000008,40.5191011,-111.3800101,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100375,,Jason & Lisa Mendenhall,Golf,Paying
 ,77,2180 E Flat Top Mountain Drive,0.460000008,40.5191011,-111.3800101,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100375,,Robert and Lisa Mendenhall,Golf,Paying
+,77,2180 E Flat Top Mountain Drive,0.460000008,40.5191011,-111.3800101,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100375,,Jason & Lisa Mendenhall,Golf,Paying
 ,770,2205 E Signal Peak Court,0.600000024,40.5104894,-111.379458,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100359,,The Jolitz Holding Trust,Golf,Paying
 ,771,2181 E Signal Peak Court,0.620000005,40.5105384,-111.3800782,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,300267,,Kari and Cory Martin,Lifestyle,Paying
 ,772,306 N Signal Peak Circle,0.730000019,40.5114448,-111.3808394,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100250,,Joseph Grenny,Golf,Paying
@@ -742,22 +742,22 @@
 ,777,2111 E Signal Peak Court,0.49000001,40.5102406,-111.3819746,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100617,,Shellie and Richard Bowman,Golf,Paying
 ,778,2105 E Signal Peak Court,0.479999989,40.5097477,-111.3819724,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,300501,,Mitchell and Lynda Baris,Lifestyle,Paying
 ,779,2041 E Copper Belt Drive,0.670000017,40.5091576,-111.3823037,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100623,,Steven and Deborah Montgomery,Golf,Paying
-,78,2220 E Flat Top Mountain Drive,0.610000014,40.518824,-111.379518,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,200127,,"Red Knob Partners, LLC",Golf Park,Paying
+,78,2220 East Flat Top Mountain Drive,0.610000014,40.518824,-111.379518,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,200127,,"Red Knob Partners, LLC",Golf Park,Paying
 ,780,2078 E Copper Belt Drive,0.319999993,40.5090294,-111.3814276,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100888,,BLC Consulting LLC,Golf,Paying
 ,781,2072 E Copper Belt Drive,0.340000004,40.5088859,-111.3814873,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,300266,,VR Groves Construction,Lifestyle,Paying
 ,782,2052 E Copper Belt Drive,0.310000002,40.508985,-111.3819265,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Signal Peak,300539,,Susan and David Rillie,Lifestyle,Paying
 ,783,2028 E Copper Belt Drive,0.330000013,40.5088702,-111.3822231,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Signal Peak,100645,,Nathan and Mary Newson,Golf,Paying
-,789,2090 E Flat Top Mountain Drive,0.709999979,40.5197798,-111.3812619,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100605,,Joseph Grigg,Golf,Paying
-,790,2114 E Flat Top Mountain Drive,0.589999974,40.519694,-111.380942,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100791,,Iris Markel,Golf,Paying
+,789,2090 East Flat Top Mountain Drive,0.709999979,40.5197798,-111.3812619,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100605,,Joseph Grigg,Golf,Paying
+,790,2114 East Flat Top Mountain Drive,0.589999974,40.519694,-111.380942,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100791,,Iris Markel,Golf,Paying
 ,791,2140 E Flat Top Mountain Drive,0.50999999,40.5195501,-111.3805798,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100289,,Jason Talley,Golf,Paying
-,792,2166 E Flat Top Mountain Drive,0.449999988,40.5192974,-111.3802878,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100282,,Cynthia K. Phillips,Golf,Paying
+,792,2166 East Flat Top Mountain Drive,0.449999988,40.5192974,-111.3802878,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Second Release,100282,,Cynthia K. Phillips,Golf,Paying
 ,793,,,40.51859526,-111.3682008,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Fulture Loop Road,,,,,
 ,794,,,40.51909564,-111.3681299,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Fulture Loop Road,,,,,
 ,795,3172 e,,40.51906485,-111.3670818,Success,TRUE,TRUE,(OR) Ownership Restricted,DR Fulture Loop Road,,,,,
 ,796,Lance,1.309999943,40.51653962,-111.3649023,Success,TRUE,TRUE,(OR) Ownership Restricted,DR Uinta Ridge,,,,,
 ,797,3092 E Red Knob Way,0.930000007,40.515624,-111.3644489,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,100785,Inactive until 1/1/2030,Scott and Amy Jensen,Golf,Inactive
 ,798,3106 E Red Knob Way (Jill),1.24000001,40.51533479,-111.3639302,Success,TRUE,TRUE,(OR) Ownership Restricted,DR Uinta Ridge,,,,,
-,8,116 N Haystack Mountain Drive,0.529999971,40.50873976,-111.3855544,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,300454,,The Hagen Family Trust,Lifestyle,Paying
+,8,116 N Haystack Mountain Drive,0.529999971,40.5103952,-111.3893371,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,300454,,The Hagen Family Trust,Lifestyle,Paying
 ,80,2265 E Flat Top Mountain Drive,2.460000038,40.5187817,-111.3783647,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300031,,Vicky Ko,Lifestyle,Paying
 ,800,3023 E Red Knob Way,1.480000019,40.5172266,-111.3652438,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,,,,,
 ,801,3045 E Red Knob Way,2.700000048,40.51692087,-111.3644806,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,100507,inactive for up to 3 years until RLC home is completed,Jack and Pam Keiser,Golf Park,Inactive
@@ -868,17 +868,17 @@
 ,897,3408 E Red Knob Way,0.74000001,40.5214824,-111.3594729,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,,,,,
 ,898,3428 E Red Knob Way,1.190000057,40.5220187,-111.3595473,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,100866,inactive until lot 500 sold or 6/30/28,Charles and Barbara Stark,Golf,Inactive
 ,899,3417 E Boulder Top Way,2.130000114,40.5228437,-111.359997,Success,TRUE,TRUE,(CL+) $700k + priced lots,DR Uinta Ridge,,,,,
-,9,126 N Haystack Mountain Drive,0.50999999,40.50869402,-111.3862118,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,100047,,Keith Ross,Golf,Paying
+,9,126 N Haystack Mountain Drive,0.50999999,40.5103952,-111.3893371,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Original Release,100047,,Keith Ross,Golf,Paying
 ,90,2326 E Flat Top Mountain Drive,0.519999981,40.5172385,-111.3778755,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300321,,Kenneth Woetzel and Lee Ann Worth,Lifestyle,Paying
 ,900,3379 E Boulder Top Way,1.700000048,40.5231829,-111.3605134,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,,,,,
-,901,3335 E Boulder Top Way or 1314 N Grand View Peak Court,1,40.5234585,-111.3613017,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
-,902,1328 N Grand View Peak Court (Anthony),2,40.52411282,-111.3614705,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
-,903,1348 N Grand View Peak Court (Nolan),2,40.52443765,-111.3619166,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
-,904,1394 N Grand View Peak Court (Nolan),4,41.6032207,-73.087749,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
-,905,1396 N Grand View Peak Court,2,40.52487483,-111.363231,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
-,906,1399 N Grand View Peak Court,2,42.0283604,-72.6920969,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
-,907,1385 N Grand View Peak Court,1.029999971,40.52445166,-111.363207,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
-,908,3293 E Boulder Top Way or 1355 N Grand View Peak Court or 1311 N Grand Peak Court,1,40.5237381,-111.3621868,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
+,901,3335 E Boulder Top Way or 1314 N Grand View Peak Ct,1,40.5234585,-111.3613017,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
+,902,1328 N Grand View Peak Ct (Anthony),2,40.52411282,-111.3614705,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
+,903,1348 N Grand View Peak Ct (Nolan),2,40.52443765,-111.3619166,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
+,904,1394 N Grand View Peak Ct (Nolan),4,41.6032207,-73.087749,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
+,905,1396 N Grand View Peak Ct,2,40.52487483,-111.363231,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
+,906,1399 N Grand View Peak Ct,2,42.0283604,-72.6920969,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
+,907,1385 N Grand View Peak Ct,1.029999971,40.52445166,-111.363207,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR The Preserve,,,,,
+,908,3293 E Boulder Top Way or 1355 N Grand View Peak Ct or 1311 N Grand Peak Ct,1,40.5237381,-111.3621868,Success,TRUE,TRUE,(OR) Ownership Restricted,DR The Preserve,,,,,
 ,909,3269 E Boulder Top Way,0.860000014,40.5236263,-111.3627908,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,,,,,
 ,91,2366 E Flat Top Mountain Drive,1.190000057,40.5169587,-111.3772564,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100652,,Michael and Stephanie Malin,Golf,Paying
 ,910,3225 E Boulder Top Way,1.230000019,40.5234123,-111.3635732,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Uinta Ridge,,,,,
@@ -912,16 +912,16 @@
 ,936,,1.080000043,,,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Future Loop Knoll,,,,,
 ,937,,1.309999943,,,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Future Loop Knoll,,,,,
 ,938,,1.629999995,,,Success,TRUE,TRUE,(CLL) Custom Lot Large,DR Future Loop Knoll,,,,,
-,94,2575 E Red Knob Way or 748 N Explorer Peak,0.819999993,40.51651126,-111.3740599,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300325,,Chad and Lana Swensen,Lifestyle,Paying
-,95,2611 E Red Knob Way,0.810000002,40.51646877,-111.3732798,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100034,,Ken Baugh,No Membership,Combined
-,96,2661 E Red Knob Way,1.149999976,40.51696643,-111.3727298,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100034,,Ken & Melinda Baugh,Golf,Paying
+,94,2575 E Red Knob Way or 748 N Explorer Peak,0.819999993,40.5149385,-111.3752721,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,300325,,Chad and Lana Swensen,Lifestyle,Paying
+,95,2611 E Red Knob Way,0.810000002,40.5149385,-111.3752721,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100034,,Ken Baugh,No Membership,Combined
+,96,2661 E Red Knob Way,1.149999976,40.5149385,-111.3752721,Success,FALSE,TRUE,(CLL) Custom Lot Large,Original Release,100034,,Ken & Melinda Baugh,Golf,Paying
 ,98,787 N Red Ledges Boulevard,0.74000001,40.5170042,-111.3695428,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,100372,Bought from Bennett,Lana H Clarke Revocable Trust,Golf,Paying
 ,99,771 N Red Ledges Boulevard,0.730000019,40.516782,-111.3691065,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Original Release,300083,,The Jodi Lynn Parker Brooksby Legacy Trust,Lifestyle,Paying
-,AV-1C,242 N Red Ledges Village Way,0.063000001,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Alpine,100102,,Dieter & Harriet Uchtdorf,Golf,Paying
-,AV-2C,254 N Red Ledges Village Way,0.066,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Alpine,100756,,Jason Hansen,Golf,Paying
+,AV-1C,242 N. Red Ledges Village Way,0.063000001,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Alpine,100102,,Dieter & Harriet Uchtdorf,Golf,Paying
+,AV-2C,254 N. Red Ledges Village Way,0.066,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Alpine,100756,,Jason Hansen,Golf,Paying
 ,AV-3C/4C,266 N Red Ledges Village Way or 278 N Red Ledges Village Way,0.136000007,40.5084564,-111.3835962,Success,FALSE,TRUE,(CLS) Custom Lot Small,Mountain Villa - Alpine,505002,Builder,"Ivory Homes, LTD",Golf,Corporate
-,AV-5C,314 N Red Ledges Village Way,0.143000007,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Mountain Villa - Alpine,100872,,Chris Weaver,Golf,Paying
-,AV-6C,332 N Red Ledges Village Way,0.143000007,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Mountain Villa - Alpine,100445,,SLSLKDS Trust,Golf,Paying
+,AV-5C,314 N. Red Ledges Village Way,0.143000007,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Mountain Villa - Alpine,100872,,Chris Weaver,Golf,Paying
+,AV-6C,332 N. Red Ledges Village Way,0.143000007,40.5084564,-111.3835962,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Mountain Villa - Alpine,100445,,SLSLKDS Trust,Golf,Paying
 ,BA-01,"359 N Abajo Peak Loop, Unit 1",,40.5118886,-111.3876892,Success,TRUE,TRUE,(BFSAMV2) Park View Villas product,DR Park View Villas,200064,,David Gordon Kent,Golf Park,Paying
 ,BA-02,"359 N Abajo Peak Loop, Unit 2",,40.5118886,-111.3876892,Success,TRUE,TRUE,(BFSAMV2) Park View Villas product,DR Park View Villas,300515,,The Lafarga Family Trust,Lifestyle,Paying
 ,BA-03,"359 N Abajo Peak Loop, Unit 3",,40.5118886,-111.3876892,Success,TRUE,TRUE,(BFSAMV2) Park View Villas product,DR Park View Villas,300541,downgraded to lifestyle,Robert and Linda Dugins,Lifestyle,Paying
@@ -1107,61 +1107,61 @@
 ,CON97,,,,,Success,TRUE,FALSE,(Condo) BFS Condo,Future Phase of Condos,,,,,
 ,CON98,,,,,Success,TRUE,FALSE,(Condo) BFS Condo,Future Phase of Condos,,,,,
 ,CON99,,,,,Success,TRUE,FALSE,(Condo) BFS Condo,Future Phase of Condos,,,,,
-,CP-1,1896 E Kings Peak Circle,0.07,40.5092208,-111.3843168,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100527,,Jennifer and Christopher Crayner,Golf,Paying
-,CP-10,1744 E Kings Peak Circle,0.100000001,40.5095366,-111.3866329,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100767,,Kent Bozarth,Golf,Paying
-,CP-11,1730 E Kings Peak Circle,0.100000001,40.5096641,-111.3868341,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100123,,James & Melissa Markey,Golf,Paying
-,CP-12,1710 E Kings Peak Circle,0.090000004,40.5098584,-111.387101,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100448,,William C. Ivie and Tomi T. Ivie,Golf,Paying
-,CP-13,1704 E Kings Peak Circle,0.090000004,40.5100273,-111.3874182,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100406,,Michael and Donna Martini,Golf,Paying
-,CP-14,1702 E Kings Peak Circle,0.090000004,40.5102638,-111.3874229,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,200004,,Dave and Diane Citek,Golf Park,Paying
-,CP-15,1700 E Kings Peak Circle,0.090000004,40.5104587,-111.3872149,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100213,,Jeff and Kim Joyce,Golf,Paying
-,CP-16,1701 E Kings Peak Circle,0.090000004,40.5071111,-111.8728545,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100368,Upgrade,SDQ Ltd,Golf,Paying
-,CP-17,1707 E Kings Peak Circle,0.090000004,40.5071111,-111.8728555,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300547,,James Link and Lillian Chappelle Montgomery,Lifestyle,Paying
-,CP-18,1717 E Kings Peak Circle,0.090000004,40.5071113,-111.8728571,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100244,,Richard Getz,Golf,Paying
-,CP-19,1735 E Kings Peak Circle,0.090000004,40.5071115,-111.87286,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100550,,Brian Allen McLeod,Golf,Paying
-,CP-2,1874 E Kings Peak Circle,0.090000004,40.5092091,-111.3845875,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100514,,Dominic and Shawn Savarino,Golf,Paying
-,CP-20,1751 E Kings Peak Circle,0.090000004,40.5071117,-111.8728626,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100877,,Bradford Alexander Boyd and Alison LaBoissoniere Boyd,Golf,Paying
-,CP-21,1765 E Kings Peak Circle,0.090000004,40.5071118,-111.8728649,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300130,,Gordon and Joane Nelson,Lifestyle,Paying
-,CP2-1,2522 E Red Knob Way,0.100000001,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300286,Bought from Port,Matthew Smith,Lifestyle,Paying
-,CP2-10,2632 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300493,,Jared Smith and Thomas Lewis,Lifestyle,Paying
-,CP2-11,2646 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100631,,Jeffrey and Anna Weidell,Lifestyle,Paying
-,CP2-12,2662 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300152,,John and Michelle Eckert,Lifestyle,Paying
-,CP-22,181 N Kings Peak Court,0.07,36.0262636,-115.0140408,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300237,Rental Waive,Michael and Melanie Dordick,Lifestyle,Waived
-,CP2-2,2536 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100568,,Pam and Tom Bell,Golf,Paying
+,CP-1,1896 E. Kings Peak Circle,0.07,40.5092208,-111.3843168,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100527,,Jennifer and Christopher Crayner,Golf,Paying
+,CP-10,1744 E. Kings Peak Circle,0.100000001,40.5095366,-111.3866329,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100767,,Kent Bozarth,Golf,Paying
+,CP-11,1730 E. Kings Peak Circle,0.100000001,40.5096641,-111.3868341,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100123,,James & Melissa Markey,Golf,Paying
+,CP-12,1710 E. Kings Peak Circle,0.090000004,40.5098584,-111.387101,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100448,,William C. Ivie and Tomi T. Ivie,Golf,Paying
+,CP-13,1704 E. Kings Peak Circle,0.090000004,40.5100273,-111.3874182,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100406,,Michael and Donna Martini,Golf,Paying
+,CP-14,1702 E. Kings Peak Circle,0.090000004,40.5102638,-111.3874229,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,200004,,Dave and Diane Citek,Golf Park,Paying
+,CP-15,1700 E. Kings Peak Circle,0.090000004,40.5104587,-111.3872149,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100213,,Jeff and Kim Joyce,Golf,Paying
+,CP-16,1701 E. Kings Peak Circle,0.090000004,40.5071111,-111.8728545,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100368,Upgrade,SDQ Ltd,Golf,Paying
+,CP-17,1707 E. Kings Peak Circle,0.090000004,40.5071111,-111.8728555,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300547,,James Link and Lillian Chappelle Montgomery,Lifestyle,Paying
+,CP-18,1717 E. Kings Peak Circle,0.090000004,40.5071113,-111.8728571,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100244,,Richard Getz,Golf,Paying
+,CP-19,1735 E. Kings Peak Circle,0.090000004,40.5071115,-111.87286,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100550,,Brian Allen McLeod,Golf,Paying
+,CP-2,1874 E. Kings Peak Circle,0.090000004,40.5092091,-111.3845875,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100514,,Dominic and Shawn Savarino,Golf,Paying
+,CP-20,1751 E. Kings Peak Circle,0.090000004,40.5071117,-111.8728626,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100877,,Bradford Alexander Boyd and Alison LaBoissoniere Boyd,Golf,Paying
+,CP-21,1765 E. Kings Peak Circle,0.090000004,40.5071118,-111.8728649,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300130,,Gordon and Joane Nelson,Lifestyle,Paying
+,CP2-1,2522 East Red Knob Way,0.100000001,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300286,Bought from Port,Matthew Smith,Lifestyle,Paying
+,CP2-10,2632 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300493,,Jared Smith and Thomas Lewis,Lifestyle,Paying
+,CP2-11,2646 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100631,,Jeffrey and Anna Weidell,Lifestyle,Paying
+,CP2-12,2662 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300152,,John and Michelle Eckert,Lifestyle,Paying
+,CP-22,181 N. Kings Peak Court,0.07,36.0262636,-115.0140408,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300237,Rental Waive,Michael and Melanie Dordick,Lifestyle,Waived
+,CP2-2,2536 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100568,,Pam and Tom Bell,Golf,Paying
 ,CP-23,201 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100734,,James and Robin Todd,Golf,Paying
-,CP2-3,2548 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300533,,Wesley and Jill Lovell,Lifestyle,Paying
-,CP-24,223 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,200012,,Joel and Jennifer Sendek,Golf Park,Paying
-,CP2-4,2558 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,200031,,Stephen Moss and Cynthia Nicholson,Golf Park,Paying
-,CP-25,245 N Kings Peak Court,0.100000001,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300339,,Steve and Liz Edmunds,Lifestyle,Paying
-,CP2-5,2572 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100286,,Scott Huie,Golf,Paying
+,CP2-3,2548 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300533,,Wesley and Jill Lovell,Lifestyle,Paying
+,CP-24,223 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,200012,,Joel and Jennifer Sendek,Golf Park,Paying
+,CP2-4,2558 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,200031,,Stephen Moss and Cynthia Nicholson,Golf Park,Paying
+,CP-25,245 N. Kings Peak Court,0.100000001,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300339,,Steve and Liz Edmunds,Lifestyle,Paying
+,CP2-5,2572 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100286,,Scott Huie,Golf,Paying
 ,CP-26,261 N Kings Peak Court,0.090000004,33.4848758,-111.7012052,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300348,,Steve and Virginia Lorenc,Lifestyle,Paying
-,CP2-6,2582 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100267,,Steve and Karen Awalt,Golf,Paying
-,CP-27,285 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300542,,Kristopher and Mary Beth Brickman,Lifestyle,Paying
-,CP2-7,2594 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300512,,Todd and Candace Hickman Living Trust,Lifestyle,Paying
-,CP-28,287 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300223,,Christopher and Treesje Bennett,Lifestyle,Paying
-,CP2-8,2606 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300331,,"Red Knob Partners, LLC",Lifestyle,Paying
-,CP-29,289 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100819,,Wagner Family Community Trust,Golf,Paying
-,CP2-9,2618 E Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100692,,Merlon and Mary Schuneman,Golf,Paying
-,CP-3,1850 E Kings Peak Circle,0.090000004,40.5092237,-111.3848605,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100847,,Kyle and Heidi Eliason,Golf,Paying
-,CP-30,288 N Kings Peak Court,0.090000004,33.4848758,-111.7012052,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300329,,Jesse Orsini,Lifestyle,Paying
-,CP-31,286 N Kings Peak Court,0.090000004,33.4848758,-111.7012052,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100374,,Mike and Laurie Brown,Golf,Paying
+,CP2-6,2582 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100267,,Steve and Karen Awalt,Golf,Paying
+,CP-27,285 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300542,,Kristopher and Mary Beth Brickman,Lifestyle,Paying
+,CP2-7,2594 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300512,,Todd and Candace Hickman Living Trust,Lifestyle,Paying
+,CP-28,287 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300223,,Christopher and Treesje Bennett,Lifestyle,Paying
+,CP2-8,2606 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,300331,,"Red Knob Partners, LLC",Lifestyle,Paying
+,CP-29,289 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100819,,Wagner Family Community Trust,Golf,Paying
+,CP2-9,2618 East Red Knob Way,0.079999998,40.5149385,-111.3752721,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Fairway Cottages,100692,,Merlon and Mary Schuneman,Golf,Paying
+,CP-3,1850 E. Kings Peak Circle,0.090000004,40.5092237,-111.3848605,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100847,,Kyle and Heidi Eliason,Golf,Paying
+,CP-30,288 N. Kings Peak Court,0.090000004,33.4848758,-111.7012052,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,300329,,Jesse Orsini,Lifestyle,Paying
+,CP-31,286 N. Kings Peak Court,0.090000004,33.4848758,-111.7012052,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100374,,Mike and Laurie Brown,Golf,Paying
 ,CP-32,272 N Kings Peak Court,0.090000004,33.4848758,-111.7012052,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100504,,Melissa and Gregory Wiseman Trust,No Membership,Combined
-,CP-33,252 N Kings Peak Court,0.100000001,33.4848758,-111.7012052,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100860,,"252 Kings Peak, LLC",Golf,Paying
-,CP-34,236 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100689,,Christopher Hylen,Golf,Paying
-,CP-35,220 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(OR) Ownership Restricted,Cottages,,,,,
-,CP-36,206 N Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100686,,Robert Jeffrey and Susan Salem Euritt,Golf,Paying
-,CP-37,194 N Kings Peak Court,0.090000004,36.0262291,-115.0140399,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,200122,,Albert and Elba Massena,Golf Park,Paying
-,CP-38,180 N Kings Peak Court,0.090000004,36.0263084,-115.0140415,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100385,,Mike Gunn,Golf,Paying
-,CP-39,1857 E Kings Peak Circle,0.090000004,40.5071129,-111.8728798,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100607,,Lisa Bahash,Golf,Paying
-,CP-4,1830 E Kings Peak Circle,0.090000004,40.5092287,-111.3851195,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100528,,William and Dawn Brown,Golf,Paying
-,CP-40,1881 E Kings Peak Circle,0.090000004,40.5071132,-111.8728837,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100563,,Bruce and Leesa Quade,Golf,Paying
-,CP-41,1905 E Kings Peak Circle,0.090000004,40.5071135,-111.8728876,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100897,,Patrick and Laura Roche,Golf,Paying
-,CP-5,1808 E Kings Peak Circle,0.090000004,40.5092182,-111.3853843,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100883,,Maria Pisoni Daley and Micheal Joseph Daley,Golf,Paying
-,CP-6,1790 E Kings Peak Circle,0.090000004,40.5092335,-111.3856635,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100419,,A Gordon Orsborn,Golf,Paying
-,CP-7,1780 E Kings Peak Circle,0.090000004,40.5093064,-111.3859044,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100351,Bought from Denniston,Doug Sackville,Golf,Paying
-,CP-8,1766 E Kings Peak Circle,0.090000004,40.5093386,-111.3861704,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100346,,Gerald and Betsy Townsend,Golf,Paying
-,CP-9,1754 E Kings Peak Circle,0.090000004,40.5093946,-111.386437,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,200110,,Tom Kenneth and Gail Ann Miller,Golf Park,Paying
+,CP-33,252 N. Kings Peak Court,0.100000001,33.4848758,-111.7012052,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100860,,"252 Kings Peak, LLC",Golf,Paying
+,CP-34,236 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100689,,Christopher Hylen,Golf,Paying
+,CP-35,220 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(OR) Ownership Restricted,Cottages,,,,,
+,CP-36,206 N. Kings Peak Court,0.090000004,36.0261906,-115.0140389,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100686,,Robert Jeffrey and Susan Salem Euritt,Golf,Paying
+,CP-37,194 N. Kings Peak Court,0.090000004,36.0262291,-115.0140399,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,200122,,Albert and Elba Massena,Golf Park,Paying
+,CP-38,180 N. Kings Peak Court,0.090000004,36.0263084,-115.0140415,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100385,,Mike Gunn,Golf,Paying
+,CP-39,1857 E. Kings Peak Circle,0.090000004,40.5071129,-111.8728798,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100607,,Lisa Bahash,Golf,Paying
+,CP-4,1830 E. Kings Peak Circle,0.090000004,40.5092287,-111.3851195,Success,TRUE,TRUE,(BFSSFCot1) Cottage product,Cottages,100528,,William and Dawn Brown,Golf,Paying
+,CP-40,1881 E. Kings Peak Circle,0.090000004,40.5071132,-111.8728837,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100563,,Bruce and Leesa Quade,Golf,Paying
+,CP-41,1905 E. Kings Peak Circle,0.090000004,40.5071135,-111.8728876,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100897,,Patrick and Laura Roche,Golf,Paying
+,CP-5,1808 E. Kings Peak Circle,0.090000004,40.5092182,-111.3853843,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100883,,Maria Pisoni Daley and Micheal Joseph Daley,Golf,Paying
+,CP-6,1790 E. Kings Peak Circle,0.090000004,40.5092335,-111.3856635,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100419,,A Gordon Orsborn,Golf,Paying
+,CP-7,1780 E. Kings Peak Circle,0.090000004,40.5093064,-111.3859044,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100351,Bought from Denniston,Doug Sackville,Golf,Paying
+,CP-8,1766 E. Kings Peak Circle,0.090000004,40.5093386,-111.3861704,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,100346,,Gerald and Betsy Townsend,Golf,Paying
+,CP-9,1754 E. Kings Peak Circle,0.090000004,40.5093946,-111.386437,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Cottages,200110,,Tom Kenneth and Gail Ann Miller,Golf Park,Paying
 ,JH-1,2268 E Red Knob Way,0.159999996,40.5141449,-111.3766049,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Juniper Hills,300390,,"Sittaw, LLC",Lifestyle,Paying
-,JH-10,2446 E Flat Top Mountain Drive,0.829999983,40.5150182,-111.3759828,Success,FALSE,TRUE,(CLL) Custom Lot Large,Juniper Hills,100906,,Terje Meyers Haugen & Christina Bente Buck,Golf,Paying
+,JH-10,2446 E Flat Top Mountain Drive,0.829999983,40.5150182,-111.3759828,Success,FALSE,TRUE,(CLL) Custom Lot Large,Juniper Hills,100483,swapped L on JH-10 with G on JH-1,"Gigi Trust, U/A/D",Golf,Paying
 ,JH-11,2339 E Red Knob Way or 2455 E Red Know Way,0.75999999,40.5141449,-111.3766049,Success,FALSE,TRUE,(CLL) Custom Lot Large,Juniper Hills,100392,,John and Pamela Wallack,Golf,Paying
 ,JH-12,2407 E Red Knob Way or 2435 E Red Know Way,0.819999993,40.5137876,-111.3756256,Success,TRUE,TRUE,(CLL) Custom Lot Large,Juniper Hills,100814,,Christina and Michael Zavell,Golf,Paying
 ,JH-13,2391 E Red Knob Way or 2357 E Red Know Way,0.910000026,40.5137841,-111.3762061,Success,FALSE,TRUE,(CLL) Custom Lot Large,Juniper Hills,100443,,Julie Barton and Patricia Garcia,Golf,Paying
@@ -1181,15 +1181,15 @@
 ,JH-7,2293 E Red Knob Way,0.159999996,40.5141449,-111.3766049,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Juniper Hills,505003,Builder,"Hawkes Management, Inc",Lifestyle,Inactive
 ,JH-8,2303 E Red Knob Way,0.180000007,40.5141449,-111.3766049,Success,FALSE,TRUE,(CLM) Custom Lot Medium,Juniper Hills,505003,Builder,"Hawkes Management, Inc",Lifestyle,Inactive
 ,JH-9,2317 E Red Knob Way,0.639999986,40.5141449,-111.3766049,Success,TRUE,TRUE,(CLM) Custom Lot Medium,Juniper Hills,300504,,Clair A Gagan Trust,Golf Park,Paying
-,TV-10D,1642 E Abajo Peak Court,0.068000004,40.5106115,-111.3888674,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,200114,,Aaron and Mandy Wettstein,Golf Park,Paying
-,TV-11,284 N Abajo Peak Way,0.045000002,40.5108211,-111.3877754,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100444,,Martha and Thomas Woodworth,Golf,Paying
-,TV-12,292 N Abajo Peak Way,0.045000002,40.5108721,-111.3877427,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300538,,James and Chieko Perry,Lifestyle,Paying
-,TV-13,302 N Abajo Peak Way,0.045000002,40.5110739,-111.3875948,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300307,,Mark and Shelly Steiner,Lifestyle,Paying
-,TV-14,308 N Abajo Peak Way,0.045000002,40.5111527,-111.3875459,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300313,,"Consolidated Services, LP",Lifestyle,Paying
+,TV-10D,1642 E.Abajo Peak Court,0.068000004,40.5106115,-111.3888674,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,200114,,Aaron and Mandy Wettstein,Golf Park,Paying
+,TV-11,284 North Abajo Peak Way,0.045000002,40.5108211,-111.3877754,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100444,,Martha and Thomas Woodworth,Golf,Paying
+,TV-12,292 North Abajo Peak Way,0.045000002,40.5108721,-111.3877427,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300538,,James and Chieko Perry,Lifestyle,Paying
+,TV-13,302 North Abajo Peak Way,0.045000002,40.5110739,-111.3875948,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300307,,Mark and Shelly Steiner,Lifestyle,Paying
+,TV-14,308 North Abajo Peak Way,0.045000002,40.5111527,-111.3875459,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300313,,"Consolidated Services, LP",Lifestyle,Paying
 ,TV-15,324 N Abajo Peak Way,0.059999999,40.5113058,-111.3874463,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,200089,,James and Megan Pickette,Golf Park,Paying
 ,TV-16,332 N Abajo Peak Way,0.07,40.5114015,-111.3873676,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100606,,Smithson Family Trust,Golf,Paying
-,TV-17,1664 E Abajo Peak Circle,0.057999998,40.511144,-111.388142,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,600074,,Michelle Joslyn Pierce Trust,Lifestyle,Paying
-,TV-18,1654 E Abajo Peak Circle,0.057999998,40.511185,-111.388251,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300357,,Craig and Melody Young,Lifestyle,Paying
+,TV-17,1664 East Abajo Peak Circle,0.057999998,40.511144,-111.388142,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,600074,,Michelle Joslyn Pierce Trust,Lifestyle,Paying
+,TV-18,1654 East Abajo Peak Circle,0.057999998,40.511185,-111.388251,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300357,,Craig and Melody Young,Lifestyle,Paying
 ,TV-19,1644 E Abajo Peak Circle,0.07,40.5113031,-111.388377,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100657,,William M Cooke Revocable Trust,Golf,Paying
 ,TV-1D,232 N Abajo Peak Way,0.144999996,40.5103457,-111.3880774,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Mountain Villa - Timpanogos,100825,,232 RL LLC,Lifestyle,Paying
 ,TV-20,1634 E Abajo Peak Circle,0.07,40.5113148,-111.3885897,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300545,,Barbara Heffernan and Mario Smith,Lifestyle,Paying
@@ -1201,16 +1201,16 @@
 ,TV-26,1625 E Abajo Peak Circle,0.07,40.511843,-111.3884415,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100537,,Jonathan and Julianne Abelmann,Golf,Paying
 ,TV-27,1629 E Abajo Peak Circle,0.07,40.5117447,-111.3882388,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300245,,Kevin Charles,Lifestyle,Paying
 ,TV-28,1639 E Abajo Peak Circle,0.07,40.511678,-111.388186,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300253,,Matt Cusumano,Lifestyle,Paying
-,TV-29,1655 E Abajo Peak Circle,0.057999998,40.5115138,-111.3879982,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300277,,John and Cinda Scadden,Lifestyle,Paying
+,TV-29,1655 East Abajo Peak Circle,0.057999998,40.5115138,-111.3879982,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300277,,John and Cinda Scadden,Lifestyle,Paying
 ,TV-2D,254 N Abajo Peak Way,0.144999996,40.5105342,-111.3879624,Success,FALSE,TRUE,(BFSSFCot1) Cottage product,Mountain Villa - Timpanogos,100894,,The Steven M. Keller and Kathleen E. Keller Trust,Golf,Paying
-,TV-30,1665 E Abajo Peak Circle,0.057999998,40.5114379,-111.3878964,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300544,,Dona and Christine Borelli,Lifestyle,Paying
-,TV-3D,1639 E Abajo Peak Court,0.068000004,40.5107483,-111.3882802,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100117,,Michael O'Connor,Golf,Paying
-,TV-4D,1629 E Abajo Peak Court,0.068000004,40.5108103,-111.3884613,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100439,,RA Valleydale GP,Lifestyle,Paying
-,TV-5D,1623 E Abajo Peak Court,0.068000004,40.5107728,-111.3883554,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300482,,Robert and Tracy Mayo,Lifestyle,Paying
-,TV-6D,1621 E Abajo Peak Court,0.068000004,40.5117839,-111.3889574,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,200123,,Kevin and Sulyn Dillion,Golf Park,Paying
-,TV-7D,1622 E Abajo Peak Court,0.068000004,40.510958,-111.3886797,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100041,Bought from Draper,Christopher and Laurie Von Der Ahe Revocable Living Trust,Golf,Paying
-,TV-8D,1624 E Abajo Peak Court,0.068000004,40.5109272,-111.3888523,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100710,,Michael and Shana Wood,Golf,Paying
-,TV-9D,1632 E Abajo Peak Court,0.068000004,40.510497,-111.3886759,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300413,,Charles (Jeff) and Alicia Miner,Golf,Inactive
+,TV-30,1665 East Abajo Peak Circle,0.057999998,40.5114379,-111.3878964,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,700071,,Julie Monahan,Lifestyle,Paying
+,TV-3D,1639 E. Abajo Peak Court,0.068000004,40.5107483,-111.3882802,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100117,,Michael O'Connor,Golf,Paying
+,TV-4D,1629 E. Abajo Peak Court,0.068000004,40.5108103,-111.3884613,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100439,,RA Valleydale GP,Lifestyle,Paying
+,TV-5D,1623 E. Abajo Peak Court,0.068000004,40.5107728,-111.3883554,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300482,,Robert and Tracy Mayo,Lifestyle,Paying
+,TV-6D,1621 E. Abajo Peak Court,0.068000004,40.5117839,-111.3889574,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,200123,,Kevin and Sulyn Dillion,Golf Park,Paying
+,TV-7D,1622 E. Abajo Peak Court,0.068000004,40.510958,-111.3886797,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100041,Bought from Draper,Christopher and Laurie Von Der Ahe Revocable Living Trust,Golf,Paying
+,TV-8D,1624 E. Abajo Peak Court,0.068000004,40.5109272,-111.3888523,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,100710,,Michael and Shana Wood,Golf,Paying
+,TV-9D,1632 E.Abajo Peak Court,0.068000004,40.510497,-111.3886759,Success,FALSE,TRUE,(BFSAMV2) Park View Villas product,Mountain Villa - Timpanogos,300413,,Charles (Jeff) and Alicia Miner,Golf,Inactive
 ,VC-01,364 N Red Ledges Village Way,0.109999999,40.5118827,-111.383293,Success,TRUE,TRUE,(BFSAVCC) Village Center Cabins,Village Center,200088,,"The Houston Office Development Company, LLC",Golf Park,Paying
 ,VC-02,368 N Red Ledges Village Way,0.109999999,40.5084564,-111.3835962,Success,TRUE,TRUE,(BFSAVCC) Village Center Cabins,Village Center,100788,,Roy Ziegler and Linda Welty,Golf,Paying
 ,VC-03,412 N Red Ledges Village Way,0.109999999,40.5084564,-111.3835962,Success,TRUE,TRUE,(BFSAVCC) Village Center Cabins,Village Center,100703,,Christopher Dierks and Jennifer Taka,Golf,Paying
