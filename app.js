@@ -2,11 +2,10 @@ let map;
 let marker;
 let lotsData = [];
 
-// Initialize the map
+// ─── Map Initialization ───────────────────────────────────────────────────────
+
 function initMap() {
-    // Default center - Red Ledges community center
     const defaultCenter = { lat: 40.5119, lng: -111.3706 };
-    
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 15,
         center: defaultCenter,
@@ -14,7 +13,8 @@ function initMap() {
     });
 }
 
-// Load lot data from JSON file
+// ─── Data Loading ─────────────────────────────────────────────────────────────
+
 async function loadLotData() {
     try {
         const response = await fetch('lots.json');
@@ -26,169 +26,221 @@ async function loadLotData() {
     }
 }
 
-// Search for a lot
-function searchLot() {
-    const lotNumber = document.getElementById('lotNumberInput').value.trim();
-    
-    if (!lotNumber) {
-        showError('Please enter a lot number');
+// ─── Fuzzy / Partial Match Search ────────────────────────────────────────────
+
+function partialMatch(value, searchTerm) {
+    if (!value || !searchTerm) return false;
+    return value.toString().toLowerCase().includes(searchTerm.toLowerCase().trim());
+}
+
+function searchLots() {
+    const searchType  = document.getElementById('searchType').value;
+    const searchInput = document.getElementById('searchInput').value.trim();
+
+    hideError();
+    hideDropdown();
+    hideLotInfo();
+
+    if (!searchInput) {
+        showError('Please enter a search term');
         return;
     }
-    
-    const lot = lotsData.find(l => l.lotNumber === lotNumber);
-    
-    if (lot) {
-        hideError();
-        showLotOnMap(lot);
-        displayLotInfo(lot);
+
+    let results = [];
+
+    if (searchType === 'lotNumber') {
+        const lot = lotsData.find(l => l.lotNumber === searchInput);
+        if (lot) {
+            selectLot(lot);
+            return;
+        }
+    } else if (searchType === 'name') {
+        results = lotsData.filter(l => partialMatch(l.ownerName, searchInput));
+    } else if (searchType === 'address') {
+        results = lotsData.filter(l => partialMatch(l.address, searchInput));
+    }
+
+    if (results.length === 0) {
+        showError(`No lots found matching "${searchInput}"`);
+    } else if (results.length === 1) {
+        selectLot(results[0]);
     } else {
-        showError(`Lot number "${lotNumber}" not found. Please check the lot number and try again.`);
-        hideLotInfo();
+        showDropdown(results, searchType);
     }
 }
 
-// Show lot on map with marker
+// ─── Dropdown ─────────────────────────────────────────────────────────────────
+
+function showDropdown(results, searchType) {
+    const dropdown    = document.getElementById('searchDropdown');
+    const resultsList = document.getElementById('resultsList');
+    const countLabel  = document.getElementById('resultsCount');
+
+    countLabel.textContent = `${results.length} match${results.length !== 1 ? 'es' : ''} found - select one:`;
+    resultsList.innerHTML  = '';
+
+    results.forEach(lot => {
+        const li = document.createElement('li');
+        li.className = 'result-item';
+
+        let primary   = '';
+        let secondary = '';
+
+        if (searchType === 'name') {
+            primary   = lot.ownerName || 'Unknown Owner';
+            secondary = `Lot ${lot.lotNumber} &nbsp;·&nbsp; ${lot.address}`;
+        } else {
+            primary   = lot.address;
+            secondary = `Lot ${lot.lotNumber} &nbsp;·&nbsp; Owner: ${lot.ownerName || 'N/A'}`;
+        }
+
+        li.innerHTML = `
+            <span class="result-primary">${primary}</span>
+            <span class="result-secondary">${secondary}</span>
+        `;
+
+        li.addEventListener('click', () => {
+            selectLot(lot);
+            hideDropdown();
+        });
+
+        resultsList.appendChild(li);
+    });
+
+    dropdown.classList.remove('hidden');
+}
+
+function hideDropdown() {
+    document.getElementById('searchDropdown').classList.add('hidden');
+}
+
+// ─── Select a Lot ─────────────────────────────────────────────────────────────
+
+function selectLot(lot) {
+    showLotOnMap(lot);
+    displayLotInfo(lot);
+}
+
+// ─── Map Pin ──────────────────────────────────────────────────────────────────
+
 function showLotOnMap(lot) {
     const position = { lat: lot.coordinates.lat, lng: lot.coordinates.lng };
-    
-    // Remove existing marker if any
-    if (marker) {
-        marker.setMap(null);
-    }
-    
-    // Create new marker
+
+    if (marker) marker.setMap(null);
+
     marker = new google.maps.Marker({
-        position: position,
-        map: map,
+        position,
+        map,
         title: `Lot ${lot.lotNumber}`,
         animation: google.maps.Animation.DROP
     });
-    
-    // Center map on the lot
+
     map.setCenter(position);
     map.setZoom(18);
-    
-    // Create info window
-    const availabilityStatus = lot.isAvailable.toLowerCase() === 'yes' ? 'Available' : 'Not Available';
+
     const infoWindow = new google.maps.InfoWindow({
-        content: `<div style="padding: 10px;">
-                    <h3>Lot ${lot.lotNumber}</h3>
-                    <p>${lot.address}</p>
-                    <p><strong>${availabilityStatus}</strong></p>
-                  </div>`
+        content: `
+            <div style="padding:10px;min-width:180px;">
+                <strong style="font-size:15px;">Lot ${lot.lotNumber}</strong><br>
+                <span style="font-size:13px;color:#555;">${lot.address}</span><br>
+                <span style="margin-top:6px;display:inline-block;color:#555;">
+                    Owner: ${lot.ownerName || 'N/A'}
+                </span>
+            </div>`
     });
-    
-    // Show info window on marker click
-    marker.addListener('click', () => {
-        infoWindow.open(map, marker);
-    });
+
+    marker.addListener('click', () => infoWindow.open(map, marker));
 }
 
-// Display lot information in the sidebar
+// ─── Info Panel ───────────────────────────────────────────────────────────────
+
 function displayLotInfo(lot) {
-    const lotInfoDiv = document.getElementById('lotInfo');
+    const lotInfoDiv    = document.getElementById('lotInfo');
     const lotDetailsDiv = document.getElementById('lotDetails');
-    
-    const availableClass = lot.isAvailable.toLowerCase() === 'yes' ? 'status-available' : 'status-sold';
-    
-    lotDetailsDiv.innerHTML = `
+
+    const row = (label, value) => `
         <div class="detail-row">
-            <span class="detail-label">Lot Number:</span>
-            <span class="detail-value">${lot.lotNumber}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Address:</span>
-            <span class="detail-value">${lot.address}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Acreage:</span>
-            <span class="detail-value">${lot.acreage}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Has Water Assessment:</span>
-            <span class="detail-value">${lot.hasWaterAssessment}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Is Available:</span>
-            <span class="detail-value ${availableClass}">${lot.isAvailable}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Lot Type:</span>
-            <span class="detail-value">${lot.lotType}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Phase Name:</span>
-            <span class="detail-value">${lot.phaseName}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Membership Type:</span>
-            <span class="detail-value">${lot.membershipType}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Membership Status:</span>
-            <span class="detail-value">${lot.membershipStatus}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Jonas Member Number:</span>
-            <span class="detail-value">${lot.jonasMemberNumber}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Membership Period:</span>
-            <span class="detail-value">${lot.membershipPeriod}</span>
-        </div>
-        <div class="detail-row">
-            <span class="detail-label">Owner Name:</span>
-            <span class="detail-value">${lot.ownerName}</span>
-        </div>
-    `;
-    
+            <span class="detail-label">${label}:</span>
+            <span class="detail-value">${value || 'N/A'}</span>
+        </div>`;
+
+    lotDetailsDiv.innerHTML =
+        row('Lot Number',           lot.lotNumber) +
+        row('Address',              lot.address) +
+        row('Acreage',              lot.acreage) +
+        row('Has Water Assessment', lot.hasWaterAssessment) +
+        row('Lot Type',             lot.lotType) +
+        row('Phase Name',           lot.phaseName) +
+        row('Membership Type',      lot.membershipType) +
+        row('Membership Status',    lot.membershipStatus) +
+        row('Jonas Member #',       lot.jonasMemberNumber) +
+        row('Membership Period',    lot.membershipPeriod) +
+        row('Owner Name',           lot.ownerName);
+
     lotInfoDiv.classList.remove('hidden');
 }
 
-// Hide lot information
 function hideLotInfo() {
     document.getElementById('lotInfo').classList.add('hidden');
 }
 
-// Show error message
+// ─── Error Helpers ────────────────────────────────────────────────────────────
+
 function showError(message) {
     const errorDiv = document.getElementById('errorMessage');
     errorDiv.textContent = message;
     errorDiv.classList.remove('hidden');
 }
 
-// Hide error message
 function hideError() {
     document.getElementById('errorMessage').classList.add('hidden');
 }
 
-// Clear search
+// ─── Clear / Reset ────────────────────────────────────────────────────────────
+
 function clearSearch() {
-    document.getElementById('lotNumberInput').value = '';
+    document.getElementById('searchInput').value = '';
     hideLotInfo();
     hideError();
-    
-    if (marker) {
-        marker.setMap(null);
-    }
-    
-    // Reset map to default view
+    hideDropdown();
+
+    if (marker) marker.setMap(null);
+
     map.setCenter({ lat: 40.5119, lng: -111.3706 });
     map.setZoom(15);
 }
 
-// Event listeners
+// ─── Event Listeners ──────────────────────────────────────────────────────────
+
 document.addEventListener('DOMContentLoaded', () => {
     initMap();
     loadLotData();
-    
-    document.getElementById('searchButton').addEventListener('click', searchLot);
+
+    document.getElementById('searchButton').addEventListener('click', searchLots);
     document.getElementById('clearButton').addEventListener('click', clearSearch);
-    
-    // Allow Enter key to search
-    document.getElementById('lotNumberInput').addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') {
-            searchLot();
+
+    document.getElementById('searchInput').addEventListener('keypress', e => {
+        if (e.key === 'Enter') searchLots();
+    });
+
+    document.getElementById('searchType').addEventListener('change', () => {
+        const type = document.getElementById('searchType').value;
+        const placeholders = {
+            lotNumber: 'Enter lot number (e.g. 102)',
+            name:      'Enter owner name (e.g. Smith)',
+            address:   'Enter address (e.g. Haystack)'
+        };
+        document.getElementById('searchInput').placeholder = placeholders[type];
+        hideDropdown();
+        hideError();
+    });
+
+    document.addEventListener('click', e => {
+        const dropdown = document.getElementById('searchDropdown');
+        if (!dropdown.contains(e.target) &&
+            e.target.id !== 'searchButton' &&
+            e.target.id !== 'searchInput') {
+            hideDropdown();
         }
     });
 });

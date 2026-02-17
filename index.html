@@ -3,27 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Community Lot Locator</title>
+    <title>Red Ledges Lot Locator</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
+
         <header>
-            For Internal Use Only -- Do NOT share outside of Red Ledges
+            <h1>Red Ledges Lot Locator</h1>
         </header>
-        
-        <div><h1>Red Ledges Homesite Locator</h1></div>
-        
+
+        <!-- Search Section -->
         <div class="search-section">
-            
-            <input type="text"
-                   id="lotNumberInput"
-                   placeholder="Enter lot number (e.g., 101)"
-                   autocomplete="off" />
-            <button id="searchButton">Find Lot</button>
-            <button id="clearButton">Clear</button>
+
+            <!-- Search Type Selector -->
+            <select id="searchType">
+                <option value="lotNumber">Lot Number</option>
+                <option value="name">Owner Name</option>
+                <option value="address">Address</option>
+            </select>
+
+            <!-- Search Input -->
+            <div class="input-wrapper">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Enter lot number (e.g. 102)"
+                    autocomplete="off"
+                />
+
+                <!-- Dropdown results list -->
+                <div id="searchDropdown" class="search-dropdown hidden">
+                    <div id="resultsCount" class="results-count"></div>
+                    <ul id="resultsList"></ul>
+                </div>
+            </div>
+
+            <button id="searchButton">Search</button>
+            <button id="clearButton" class="btn-clear">Clear</button>
+
         </div>
 
+        <!-- Error Message -->
+        <div id="errorMessage" class="error hidden"></div>
+
+        <!-- Main Content: Map + Info Panel -->
         <div class="content">
             <div id="map"></div>
 
@@ -33,7 +57,6 @@
             </div>
         </div>
 
-        <div id="errorMessage" class="error hidden"></div>
     </div>
 
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-FgnLuD6u_trXwMhh_mOZaUWtHfUUbcs"></script>
