@@ -152,6 +152,14 @@ function showLotOnMap(lot) {
     marker.addListener('click', () => infoWindow.open(map, marker));
 }
 
+// ─── Get Directions ───────────────────────────────────────────────────────────
+
+function getDirections(address) {
+    const destination = encodeURIComponent(address);
+    const url = `https://www.google.com/maps/dir/?api=1&destination=${destination}`;
+    window.open(url, '_blank');
+}
+
 // ─── Info Panel ───────────────────────────────────────────────────────────────
 
 function displayLotInfo(lot) {
@@ -164,7 +172,13 @@ function displayLotInfo(lot) {
             <span class="detail-value">${value || 'N/A'}</span>
         </div>`;
 
+    // Directions button is FIRST, then all the detail rows
     lotDetailsDiv.innerHTML =
+        `<div class="directions-row">
+            <button class="btn-directions" onclick="getDirections('${lot.address.replace(/'/g, "\\'")}')">
+                🗺️ Get Directions
+            </button>
+        </div>` +
         row('Lot Number',           lot.lotNumber) +
         row('Address',              lot.address) +
         row('Acreage',              lot.acreage) +

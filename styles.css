@@ -44,7 +44,6 @@ h1 {
     flex-wrap: wrap;
 }
 
-/* Search type dropdown (select) */
 #searchType {
     padding: 12px 14px;
     font-size: 15px;
@@ -62,7 +61,6 @@ h1 {
     border-color: #1a6bb5;
 }
 
-/* Wrapper keeps the input + dropdown stacked */
 .input-wrapper {
     position: relative;
     flex: 1;
@@ -198,10 +196,11 @@ button:active {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 20px;
+    align-items: start;
 }
 
 #map {
-    height: 560px;
+    height: 700px;
     border-radius: 8px;
     border: 2px solid #ddd;
 }
@@ -214,16 +213,48 @@ button:active {
     border-radius: 8px;
     border: 2px solid #ddd;
     overflow-y: auto;
-    max-height: 560px;
+    max-height: 700px;
 }
 
 .lot-info h2 {
     color: #1a2b4a;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
     font-size: 1.2em;
     padding-bottom: 10px;
     border-bottom: 2px solid #e0e0e0;
 }
+
+/* ── Directions Button ────────────────────────────── */
+
+.directions-row {
+    margin-bottom: 14px;
+    padding-bottom: 14px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.btn-directions {
+    width: 100%;
+    padding: 12px;
+    background-color: #1a6bb5;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+    letter-spacing: 0.3px;
+}
+
+.btn-directions:hover {
+    background-color: #155a99;
+}
+
+.btn-directions:active {
+    transform: scale(0.97);
+}
+
+/* ── Detail Rows ──────────────────────────────────── */
 
 .detail-row {
     margin-bottom: 10px;
@@ -236,6 +267,8 @@ button:active {
 
 .detail-row:last-child {
     border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 .detail-label {
