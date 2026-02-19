@@ -154,9 +154,8 @@ function showLotOnMap(lot) {
 
 // ─── Get Directions ───────────────────────────────────────────────────────────
 
-function getDirections(address) {
-    const destination = encodeURIComponent(address);
-    const url = `https://www.google.com/maps/dir/?api=1&destination=${destination}`;
+function getDirections(lat, lng) {
+    const url = `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
     window.open(url, '_blank');
 }
 
@@ -175,7 +174,7 @@ function displayLotInfo(lot) {
     // Directions button is FIRST, then all the detail rows
     lotDetailsDiv.innerHTML =
         `<div class="directions-row">
-            <button class="btn-directions" onclick="getDirections('${lot.address.replace(/'/g, "\\'")}')">
+            <button class="btn-directions" onclick="getDirections(${lot.lat}, ${lot.lng})">
                 🗺️ Get Directions
             </button>
         </div>` +
