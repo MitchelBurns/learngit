@@ -49,11 +49,9 @@ function searchLots() {
     let results = [];
 
     if (searchType === 'lotNumber') {
-        const lot = lotsData.find(l => l.lotNumber === searchInput);
-        if (lot) {
-            selectLot(lot);
-            return;
-        }
+        results = lotsData.filter(l =>
+            partialMatch(l.lotNumber, searchInput) || partialMatch(l.lotIdCRM, searchInput)
+        );
     } else if (searchType === 'name') {
         results = lotsData.filter(l => partialMatch(l.ownerName, searchInput));
     } else if (searchType === 'address') {
@@ -179,6 +177,7 @@ function displayLotInfo(lot) {
             </button>
         </div>` +
         row('Lot Number',           lot.lotNumber) +
+        row('Lot ID (CRM)',         lot.lotIdCRM) +
         row('Address',              lot.address) +
         row('Acreage',              lot.acreage) +
         row('Has Water Assessment', lot.hasWaterAssessment) +

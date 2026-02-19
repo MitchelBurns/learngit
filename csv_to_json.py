@@ -24,6 +24,7 @@ def convert_csv_to_json():
         if row.get('GeocodeStatus') == 'Success' and row.get('Latitude') and row.get('Longitude'):
             lot = {
                 "lotNumber": row.get('LotId', ''),
+                "lotIdCRM": row.get('LotIdCRM', ''),
                 "address": row.get('Address', ''),
                 "coordinates": {
                     "lat": float(row.get('Latitude', 0)),
