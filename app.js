@@ -86,10 +86,10 @@ function showDropdown(results, searchType) {
 
         if (searchType === 'name') {
             primary   = lot.ownerName || 'Unknown Owner';
-            secondary = `Lot ${lot.lotNumber} &nbsp;·&nbsp; ${lot.address}`;
+            secondary = `Lot ${lot.lotNumber} / CRM ${lot.lotIdCRM} &nbsp;·&nbsp; ${lot.address}`;
         } else {
             primary   = lot.address;
-            secondary = `Lot ${lot.lotNumber} &nbsp;·&nbsp; Owner: ${lot.ownerName || 'N/A'}`;
+            secondary = `Lot ${lot.lotNumber} / CRM ${lot.lotIdCRM} &nbsp;·&nbsp; Owner: ${lot.ownerName || 'N/A'}`;
         }
 
         li.innerHTML = `
@@ -172,7 +172,7 @@ function displayLotInfo(lot) {
     // Directions button is FIRST, then all the detail rows
     lotDetailsDiv.innerHTML =
         `<div class="directions-row">
-            <button class="btn-directions" onclick="getDirections(${lot.lat}, ${lot.lng})">
+            <button class="btn-directions" onclick="getDirections(${lot.coordinates.lat}, ${lot.coordinates.lng})">
                 🗺️ Get Directions
             </button>
         </div>` +
